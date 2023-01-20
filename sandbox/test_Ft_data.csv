@@ -1,0 +1,9 @@
+﻿,,"L1, L2 = maximum dimension of zircon (including tips) (in two orientations; mean used)",,,,,,
+,,"W1, W2 = mutually perpendicular widths of orthorhombic prism or equatorial diameters",,,,,,
+,,"h1, h2 = ""tip"" heights of pyramidal terminations",,,,,,
+,,AI = abrasion index:,,,,,,
+,,"apatite: 2 = both tips present, 1 = one tip missing, 0 = both tips missing, DUR = durango   ",,,,,,
+,,"zircon: 1-5 (1=euhedral, 5=rounded, 3=still has pyramids)",,,,,,
+,,,,,,,,
+sample name,morph comments,AI (or DUR),L1 (um),L2 (um),W1 (um),W2 (um),h1 (um),h2 (um)
+test,something,1,20,20,30,30,10,10
