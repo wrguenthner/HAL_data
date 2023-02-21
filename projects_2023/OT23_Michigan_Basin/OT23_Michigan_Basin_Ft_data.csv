@@ -1,42 +1,71 @@
-"L1, L2 = maximum length of Crystal (including tips, in two orientations)"
-"W1, W2 = mutually perpendicular widths of orthorhombic prism or equatorial diameters"
-"h1, h2 = tip heights of pyramidal terminations (zircons only)"
-AI = abrasion index:
-"apatite: 1 = both tips present, 1.5 = one tip missing, 2 = both tips missing, DUR = durango"
-"zircon: 1-5 (1=euhedral, 5=rounded, 3=still has pyramids)"
-
+﻿"L1, L2 = maximum length of Crystal (including tips, in two orientations)",,,,,,,,
+,,,,,,,,
+"W1, W2 = mutually perpendicular widths of orthorhombic prism or equatorial diameters",,,,,,,,
+,,,,,,,,
+"h1, h2 = tip heights of pyramidal terminations (zircons only)",,,,,,,,
+,,,,,,,,
+AI = abrasion index:,,,,,,,,
+,,,,,,,,
+"apatite: 1 = both tips present, 1.5 = one tip missing, 2 = both tips missing, DUR = durango",,,,,,,,
+,,,,,,,,
+"zircon: 1-5 (1=euhedral, 5=rounded, 3=still has pyramids)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
 sample_name,morph_comments,AI,L1_(um),L2_(um),W1_(um),W2_(um),h1_(um),h2_(um)
-JDORN-10853_64
-JDORN-10853_71
-JDORN-10853_110
-JDORN-10853_176
-JDORN-10853_174
-FCT-2
-FEE-44
-JDORN-14349_60
-JDORN-14349_75
-JDORN-14349_93
-FCT-3
-JDORN-14349_167
-JDORN-14349_204
-LASS_32
-LASS_55
-FCT-4
-Greg_46
-Greg_52
-Greg_209
-Greg_217
-Greg_248
-FCT-5
-Greg_271
-PSI_7
-PSI_92
-PSI_103
-PSI_109
-PSI_109_help
-PSI_111
-FCT-6
-PSI_134
-PSI_135
-PSI_137
-FCT-7
+,,,,,,,,
+JDORN-10853_64,1/2 abraded,4,181,181,151,75,,
+,,,,,,,,
+JDORN-10853_71,"Tear drop shaped, about 1/3 of grain abraded away and some broken edges",4,224,189,170,128,,
+,,,,,,,,
+JDORN-10853_110,"Rounded, 1/5 abraded",4,164,162,132,114,,
+,,,,,,,,
+JDORN-10853_176,1/3 abraded,4,254,232,183,138,,
+,,,,,,,,
+JDORN-10853_174,,4,120,140,62,38,,
+,,,,,,,,
+FCT-2,,1,369,374,97,108,48.5,38.5
+,,,,,,,,
+FEE_44,Triangular. 1/2 abraded,4,164,164,126,60,,
+,,,,,,,,
+JDORN-14349_60,1/5 abraded away,4,119,110,80,66,,
+,,,,,,,,
+JDORN-14349_75,Almost no loss of crystal ,3,170,172,117,121,29,22.5
+,,,,,,,,
+JDORN-14349_93,,4,134,136,113,124,,
+,,,,,,,,
+FCT-3,,1,312,312,91,94,41,53
+,,,,,,,,
+JDORN-14349_167,dog tooth shaped. Very jagged. Maybe 1/2 abraded,4,158,168,76,104,,
+,,,,,,,,
+JDORN-14349_204,Only 1 tip.,2,145,141,123,113,39.5,39.5
+,,,,,,,,
+LASS_32,,4,145,147,96,40,,
+,,,,,,,,
+LASS_55,,4,136,140,113,62,,
+,,,,,,,,
+FCT-4,,1,362,367,164,138,96,49.5
+,,,,,,,,
+Greg_52,1/5 abraded,4,180,182,122,96,,
+,,,,,,,,
+Greg_209,1/4 abraded,4,133,135,172,120,,
+,,,,,,,,
+Greg_217,1/2 abraded,4,225,225,172,51.6,,
+,,,,,,,,
+Greg_248,1/4 abraded,4,226,225,175,125,,
+,,,,,,,,
+FCT-5,,1,224,233,134,102,51,31
+,,,,,,,,
+PSI_92,1/4 abraded,4,209,210,142,107,,
+,,,,,,,,
+PSI_103,1/2 abraded,4,190,190,153,75,,
+,,,,,,,,
+PSI_111,1/3 abraded,4,184,185,126,80,,
+,,,,,,,,
+FCT-6,,1,280,266,98,86,42.5,43.5
+,,,,,,,,
+PSI_134,1/3 abraded,3,177,157,136,115,36,45
+,,,,,,,,
+PSI_135,No loss of crystal,3,202,192,194,161,67,60
+,,,,,,,,
+FCT-7,Broken off tip,1,275,266,128,137,62,36
