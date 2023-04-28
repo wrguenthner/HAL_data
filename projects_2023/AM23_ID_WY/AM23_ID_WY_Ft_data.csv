@@ -1,0 +1,43 @@
+"L1, L2 = maximum length of Crystal (including tips, in two orientations)"
+"W1, W2 = mutually perpendicular widths of orthorhombic prism or equatorial diameters"
+"h1, h2 = tip heights of pyramidal terminations (zircons only)"
+AI = abrasion index:
+"apatite: 1 = both tips present, 1.5 = one tip missing, 2 = both tips missing, DUR = durango"
+"zircon: 1-5 (1=euhedral, 5=rounded, 3=still has pyramids)"
+
+sample_name,morph_comments,AI,L1_(um),L2_(um),W1_(um),W2_(um),h1_(um),h2_(um)
+20UM06Z_01
+20UM06Z_02
+20UM06Z_03
+20UM06Z_04
+20UM06z_05
+20UM06Z_06
+20UM06Z_07
+FCTZ_AM_02
+20UM06Z_08
+20UM07Z_01
+20UM07Z_02
+20UM07Z_04
+22DP01_C1_1
+22DPOI_C1_2
+22DPOI_C1_3
+22DP01_C1_4
+FCTZ_AM_04
+22DP01_C1_5
+22DP01_C1_6
+22DP01_C1_7
+22DP01_C1_8
+20UM08Z_08
+20UM08Z_09
+20UM08Z_10
+FCTZ_AM_03
+20UM08Z_11
+20UM08Z_13
+20UM08Z_14
+20UM08Z_15
+20UM08Z_16
+TR1704Z_01
+TR1704Z_02
+FCTZ_AM_05
+TR1704Z_03
+TR1704Z_04
