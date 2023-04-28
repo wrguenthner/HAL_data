@@ -1,43 +1,43 @@
-"L1, L2 = maximum length of Crystal (including tips, in two orientations)"
-"W1, W2 = mutually perpendicular widths of orthorhombic prism or equatorial diameters"
-"h1, h2 = tip heights of pyramidal terminations (zircons only)"
-AI = abrasion index:
-"apatite: 1 = both tips present, 1.5 = one tip missing, 2 = both tips missing, DUR = durango"
-"zircon: 1-5 (1=euhedral, 5=rounded, 3=still has pyramids)"
-
+"L1, L2 = maximum length of Crystal (including tips, in two orientations)",,,,,,,,
+"W1, W2 = mutually perpendicular widths of orthorhombic prism or equatorial diameters",,,,,,,,
+"h1, h2 = tip heights of pyramidal terminations (zircons only)",,,,,,,,
+AI = abrasion index:,,,,,,,,
+"apatite: 1 = both tips present, 1.5 = one tip missing, 2 = both tips missing, DUR = durango",,,,,,,,
+"zircon: 1-5 (1=euhedral, 5=rounded, 3=still has pyramids)",,,,,,,,
+,,,,,,,,
 sample_name,morph_comments,AI,L1_(um),L2_(um),W1_(um),W2_(um),h1_(um),h2_(um)
-20UM06Z_01
-20UM06Z_02
-20UM06Z_03
-20UM06Z_04
-20UM06z_05
-20UM06Z_06
-20UM06Z_07
-FCTZ_AM_02
-20UM06Z_08
-20UM07Z_01
-20UM07Z_02
-20UM07Z_04
-22DP01_C1_1
-22DPOI_C1_2
-22DPOI_C1_3
-22DP01_C1_4
-FCTZ_AM_04
-22DP01_C1_5
-22DP01_C1_6
-22DP01_C1_7
-22DP01_C1_8
-20UM08Z_08
-20UM08Z_09
-20UM08Z_10
-FCTZ_AM_03
-20UM08Z_11
-20UM08Z_13
-20UM08Z_14
-20UM08Z_15
-20UM08Z_16
-TR1704Z_01
-TR1704Z_02
-FCTZ_AM_05
-TR1704Z_03
-TR1704Z_04
+20UM06Z_01,clear and bright; clear intrusions centrally along length; asymmetrically verging tips; all grains from this sample packed in tubes from Alexis,3,244.2,239.4,89.8,97.1,49.3,54.2
+20UM06Z_02,bron; uniform damage; singular bubble inclusion,3,241,240.7,92.3,81.9,62.2,69.3
+20UM06Z_03,dark brown; fairly uniform damage; no obvious inlcusions; one rough edge; one tip significantly more rounded,3,228.4,225.2,120,103.4,71.6,81.7
+20UM06Z_04,clear and bright; one central inclusion; one tip asymmetrical,3,243.1,241.5,96,83.9,65.7,77
+20UM06z_05,light brown; relatively uniform + moderate damage; one edge/tip slightly bumpy,3,248.4,251,101.9,94.8,68.6,71.1
+20UM06Z_06,light gray; sparse central inclusions; minor-moderate damage,2,260.9,263.3,110.2,102.9,78,76.8
+20UM06Z_07,light gray; uniform minor damage; slender grain,2,250.1,251.2,83.4,81.1,56.3,64.3
+FCTZ_AM_02,"clear and elongate central inclusions, tips slightly imperfect but still a good grain",2,166.7,166.4,75,65.8,34,31
+20UM06Z_08,light gray; squat; very minor dark bubble intrusions; marbled shading,3,186.2,18.1,90.6,83.8,60.4,53.3
+20UM07Z_01,bright and clear; smooth; all grains from this sample packed in tubes from Uttam at UA,5,117.6,113.4,77.3,57.8,40.8,42.7
+20UM07Z_02,light gray; clear; sligtly rough/angular,4,135.9,138.3,72.2,59.1,54.1,42.7
+20UM07Z_04,clear; somewhat egg-shaped,4,106.4,106.5,62.9,56.4,37.7,31.6
+22DP01_C1_1,"euhedral, equant, no obvious inclusions, dark brown color; all grains from this sample packed in tubes from Uttam at UA",1,172.6,165.1,79.2,71.7,28.65,30.3
+22DP01_C1_2,"euhedral, mostly equant, no obvious inclusions, dark brown color, slight damage",2,197.1,196.6,77.9,73.7,23.5,31.6
+22DP01_C1_3,"dark brown, minor inclusions, equant, one tip slightly damaged",2,168.4,169.1,86.8,88,29.9,33.7
+22DP01_C1_4,"dark brown, euhedral, small protrusion, no visible inclusions",2,168.3,168.4,84,74.3,35.8,28.5
+FCTZ_AM_04,bright and clear; fair amount of central clear + elongate inclusions; not the prettiest grain but a good euhedral shape,2,254.9,254.3,115.9,99,64.5,56.3
+22DP01_C1_5,"dark brown, euhedral, no visible inclusions",3,162,161.9,101.8,79.1,26.55,24.8
+22DP01_C1_6,"dark brown, euhedral, no visible inclusions",2,154.2,155,85.1,86.8,25.1,35.8
+22DP01_C1_7,"dark brown, euhedral, no visible inclusions, straight edges",2,151.6,153.7,83,77.9,26.1,27.15
+22DP01_C1_8,"dark brown, euhedral, no visible inclusions, mild damage",1,148.1,148.6,81.4,71.6,35.65,29.3
+20UM08Z_08,"clear and bright; a few small ""bubble"" inclusions and one clear, angular inclusion near edge; approximately symmetrical; packed with tube from Alexis",3,205,205.1,64.1,75,50.4,49.1
+20UM08Z_09,clear; small dark intrusion in center; possible small fracture along length; somewhat stubby tips;  packed with tube from Alexis,2,165,163.8,70.6,66.6,45.5,47.7
+20UM08Z_10,"clear with one possible intrusion near edge; slightly rough internal texture along edges; small with ""sharpened pencil"" tips that are darker with concentric texture;  packed with tube from Alexis",2,210.7,209.6,84.7,91.7,66.1,67.4
+FCTZ_AM_03,"exeptionally clear (to edges), very faint stippling in center",2,174.4,175.7,61.9,57.7,24,26.1
+20UM08Z_11,clear and bright; rounded inclusion and minor elongate inclusion; stubby;  packed with tube from Alexis,3,138.8,139.3,74.7,76,40.5,39.9
+20UM08Z_13,darker gray; slightly rough texture; possible intrusions;  packed in tube from Alexis,3,238.8,239.2,99.9,101.1,73.5,74.1
+20UM08Z_14,clear and equant; concentric patern around central possible inclusion; tips are smooth but distinct; packed in tube from Alexis,3,220.6,221.5,94.9,90.6,63.3,70.6
+20UM08Z_15,light brown; no visible inclusions; slight metematic;  packed in tube from Alexis,2,235.8,233.7,93.9,100.7,76.8,76.4
+20UM08Z_16,brown; fairly uniform damage; imperfect edges/tips; packed in tube from Alexis,3,278.9,279.5,128.4,111.9,80.3,75.7
+TR1704Z_01,light gray; moderate damage throughout; few internal fractures visible; one tip jagged; all grains from this sample packed in Alfa Aesar tubes (labeled new batch 11/12/14),2,226.3,223,102.3,85.3,44.8,50.6
+TR1704Z_02,"medium gray-brown; moderate damage throughout; ""veiny"" texture; one tip possibly fractured",2,208.9,208.4,75,72.5,38.3,34.1
+FCTZ_AM_05,"clear, some darker fracturing, sharp edges",1,190.7,190.9,77.5,90.2,44.7,47
+TR1704Z_03,medium brown; uniform damage; short and equant,2,190.9,195,96.5,99.1,51.5,45.2
+TR1704Z_04,dark brown; apparent uniform damage; very minor bumpiness; low birefringence,2,205.7,203.7,88.6,89.8,42.9,58.2
