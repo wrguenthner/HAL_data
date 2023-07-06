@@ -1,52 +1,50 @@
-"L1, L2 = maximum length of Crystal (including tips, in two orientations)"
-"W1, W2 = mutually perpendicular widths of orthorhombic prism or equatorial diameters"
-"h1, h2 = tip heights of pyramidal terminations (zircons only)"
-AI = abrasion index:
-"apatite: 1 = both tips present, 1.5 = one tip missing, 2 = both tips missing, DUR = durango"
-"zircon: 1-5 (1=euhedral, 5=rounded, 3=still has pyramids)"
-
+﻿"L1, L2 = maximum dimension of zircon (including tips) (in two orientations; mean used)",,,,,,,,
+"W1, W2 = mutually perpendicular widths of orthorhombic prism or equatorial diameters",,,,,,,,
+"h1, h2 = ""tip"" heights of pyramidal terminations",,,,,,,,
+AI = abrasion index:,,,,,,,,
+"apatite: 1 = both tips present, 1.5 = one tip missing, 2 = both tips missing, DUR = durango   ",,,,,,,,
+"zircon: 1-5 (1=euhedral, 5=rounded, 3=still has pyramids)",,,,,,,,
+,,,,,,,,
 sample_name,morph_comments,AI,L1_(um),L2_(um),W1_(um),W2_(um),h1_(um),h2_(um)
-NFCT-3
-JI38.45-5
-JI38.45-6
-JI38.45-8
-JI38.45-9
-JI38.45-11
-JI38.45-16
-JI38.45-18
-NFCT-4
-JI38.45-20
-JI38.45-22
-JI38.45-23
-JI211.2-1
-JI211.2-3
-JI211.2-4
-JI211.2-5
-NFCT-5
-JI211.2-6
-JI211.2-7
-JI211.2-8
-JI211.2-9
-JI631.5-2
-JI631.5-3
-JI631.5-4
-NFCT-6
-JI631.5-5
-JI741.4-2
-JI741.4-3
-JI741.4-4
-JI741.4-5
-JI741.4-6
-JI741.4-7
-NFCT-9
-JI741.4-8
-JI741.4-9
-JIBFCT-1
-JIBFCT-2
-JIBFCT-3
-JIBFCT-4
-JIBFCT-5
-JIBFCT-7
-JIBFCT-8
-NFCT-10
-JIBFCT-9
+NFCT-3,,2,302.61,298.59,115.02,114.7,61.74,43.905
+JI38.45-5,Possible small roundish inclusion on one side,2,198.45,197.59,63.87,63.97,41.195,44.86
+JI38.45-6,"ASK WILLY Small spherical opening on one side, also makes it hard for measurements, but unsure how much it affects diffusion?",2,216.47,217.49,88.22,95.28,64.525,61.325
+JI38.45-8,"hard to tell where corners are, but peaks strongly present",2,226.94,228.66,96.8,90.28,75.135,68.89
+JI38.45-9,one peak absent but other very prominent. Odd slight curve on one side,2,216.46,217.1,91.71,84.55,55.435,63.87
+JI38.45-11,liiiittle knick in one corner,2,173.01,172.36,70.46,62.38,43.985,34.81
+JI38.45-16,black dot-ish in center,2,238.6,236.77,124.96,98.26,73.655,66.97
+JI38.45-18,just too small on one side. Basicaly ellipsoid. Very clear,3,136.72,136.35,71.22,55.32,37.505,32.37
+NFCT-4,"Two inclusions, very thin and elongate",1,205.44,207.27,90.05,85.23,43.63,37.915
+JI38.45-20,possible core or zonation visible,2,171.8,172.36,72.23,65.76,50.585,43.365
+JI38.45-22,"One edge abraded, decreasing w2 and h2b",2,171.7,171.39,75.61,67.44,51.705,39.34
+JI38.45-23,"R o u n d and yet seems like it has peaks and terminations? Unclear, but very close to being a spheroid though",4,104.69,106.5,66.66,59.82,,
+JI211.2-1,,3,202.14,203.63,104.37,87.38,51.305,37.4
+JI211.2-3,has a growth on the side that might be another crystal. Possible complication,1,90.83,71.4,192.22,192.84,39.495,29.72
+JI211.2-4,Possible growth on one side,4,157.24,155.82,76.44,62.13,,
+JI211.2-5,Section might have one tip present? Either that or missing half of one section,7,366.31,367.51,89.1,93.29,,
+NFCT-5,"Lots of inclusions, small black lines",2,343.87,339.22,151.2,131.49,66.13,60.56
+JI211.2-6,"Section, dark brown yellow, kind of shaped like a rocket ship, but one side more angular then the other",7,469.34,472.36,114.33,110.77,,
+JI211.2-8,"Section, sort of dark and moderately fracture. Shaped like a pull-apart basin",7,212.53,217.72,102.64,117.55,,
+JI211.2-9,"Section dark yellow, no inclusions but fractures look like one",7,331.57,334.66,120.91,109.15,,
+JI631.5-2,"one pyramid completely gone, few um knick in the side, but not the worst I've seen",6,324.61,325.44,96.17,83.18,56.505,
+JI631.5-3,"Very cracked grain overall, one side has clearer, partally abraded termination whereas the other is broken off",6,363.25,364.9,124.1,96.92,41.565,
+JI631.5-4,"Section, dark yellow, part of one side missing so width might be too shor",7,313.51,312.87,86.61,104.38,,
+NFCT-6,Slight bits of another crystal on one side,2,229.66,230.6,98.08,85.5,46.505,39.955
+JI631.5-5,"Section, clear and no cracks but slightly yellow",7,222.05,220.11,64.74,91.65,,
+JI741.4-2,possible small inclusion in lower half. Weird left-trending bend in the lower half of the grain,3,214.69,213.18,68.88,75.15,31.73,41.585
+JI741.4-3,"Half grain. Elongate crack parallel to c-axis, pretty clear grain",6,298.48,303.63,121.77,123.9,87.55,
+JI741.4-4,"Section, no terminations, yellowish, highly fractured",7,389.66,389.61,131.83,105.62,,
+JI741.4-5,Half grain. Pretty dark brown but still translucent,6,348.47,348.11,134.07,107.36,71.865,
+JI741.4-6,"Section, yellowish brown, very solid and thick",7,306.22,142.28,303.39,149.26,,
+JI741.4-7,"Section, pretty broken inset  on one side but mostly whole",7,290.7,292.24,103.06,103.95,,
+NFCT-9,Kind of rough on the edges but well-preserved peaks. Some elongated inclusions,1,173.76,172.81,70.33,68.35,27.47,30.285
+JI741.4-8,"Section, unclear whether termination present",7,358.92,357.8,101.03,94.83,,
+JI741.4-9,"Section, unclear whether one side is a termination. Flecks of other grains on side, but are not a large proportion",7,387.24,386.14,120.67,114.25,,
+JIBFCT-1,"Mostly inclusion free, crack down c-axis, chip in side",7,146.39,172.39,87.32,80.81,,
+JIBFCT-2,Small inclusions close to center,6,226.18,228.31,149.73,136.01,72.35,
+JIBFCT-4,1 diagonal inclusion. Hard to tell if peaked or not,6,205.03,203.02,115.38,96.41,45.985,
+JIBFCT-5,"No visible inclusions!! Possible peak present, but broken enough that I can't tell",7,318.83,328.53,167.75,117.95,,
+JIBFCT-7,"Very minor inclusions, ever so slightly yellow, one side curves",7,236.83,228.18,129.6,95.88,,
+JIBFCT-8,Small round inclusion near very center,6,221.08,218.25,115.23,69.39,47.895,
+NFCT-10,"Kind of rough on the edges as well, slightly abraded peaks. Streaky in the middle",2,228.23,228.14,87.23,76.79,38.175,42.705
+JIBFCT-9,"Inclusion-free, some edges slightly abraded but peak well-preserved",6,255.51,256.13,101.39,104.56,62.55,
