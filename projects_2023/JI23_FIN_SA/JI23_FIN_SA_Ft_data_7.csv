@@ -1,0 +1,51 @@
+﻿"L1, L2 = maximum dimension of zircon (including tips) (in two orientations; mean used)",,,,,,,,
+"W1, W2 = mutually perpendicular widths of orthorhombic prism or equatorial diameters",,,,,,,,
+"h1, h2 = ""tip"" heights of pyramidal terminations",,,,,,,,
+AI = abrasion index:,,,,,,,,
+"apatite: 1 = both tips present, 1.5 = one tip missing, 2 = both tips missing, DUR = durango   ",,,,,,,,
+"zircon: 1-5 (1=euhedral, 5=rounded, 3=still has pyramids)",,,,,,,,
+,,,,,,,,
+sample_name,morph_comments,AI,L1_(um),L2_(um),W1_(um),W2_(um),h1_(um),h2_(um)
+JIDur-1,,DUR,,,,,,
+JI23Ap-2,Apatite,2,168.96,169.63,72.27,64.93,,
+JI10AP-1,Not the greatest shape but very clear. No inclusions. Slightly abraded edges,2,155.96,155.44,67.37,64.83,,
+JI38.45Ap-1,"Half grain, possible fracture near bottom half",1.5,134.90,133.54,79.26,71.56,,
+JI38.45Ap-2,Tiny black dot near bottom,1,163.15,163.25,75.05,69.74,,
+JIDur-2,,DUR,,,,,,
+JI38.45Ap-3,,1.5,135.6,135.51,64.56,68.58,,
+JI38.45Ap-4,A little on the short side. Unclear if either termination is present,2,90.27,88.03,62.99,56.73,,
+JI38.45Ap-5,Odd orange banding. Doesn't seem like metamictization though?,1,134.89,134.45,66.27,62.34,,
+JI38.45Ap-6,"Broke as I was packing it, but got all the fragments into the packet",2,137.83,130.71,62.42,66.36,,
+JI38.45Ap-7,Little scratches on the side. No inclusions,2,143.86,142.83,64.31,76.22,,
+JIDur-3,,DUR,,,,,,
+NFCT-11,,1,171.78,173.34,67.08,73.73,29.9,33.985
+JI863.5-1,"Quite brownish yellow and hard to tell if terminations, so going to approximate as spheroid. Also missing a full quarter of the grain",7,343.91,319.32,100.91,88.12,,
+JI863.5-2,"Darker brown, one possible termination",6,311.66,357.16,116.73,142,56.84,
+JI863.5-3,Lighter yellow with hints of brown,6,220.27,219.69,124.65,86.78,79.305,
+JI863.5-4,"Check apatite? Clearer with a c-axis perpendicular fracture in it, but darker than I would expect. ",6,296.44,289,96.3,96.03,66.3,
+JI863.5-6,"Dark brown, one termination, small inclusion",6,244.33,244.85,112.58,115.12,54.475,
+JI863.5-7,"Long, brownish yellow, lots of knicks in the side that make the width undulatory",7,290.12,289.36,80.77,65.53,45.08,19.765
+NFCT-12,,2,190.45,191.84,81.86,90.36,33.405,30.43
+JI207.33-3,"Pretty dark yellow, almost brown. Peaks more evident on one side but almost all intact",3,257.78,260,143.37,124.99,67.585,57.655
+JI207.33-4,Same deal as 3--very dark yellow-brown. Dark splotch in middle,3,291.93,289.88,135.78,141.25,65.82,54.07
+JI207.33-6,"Possibly twinned? Weird blocky section on the side. Much lighter, only tinged yellow",3,308.78,311.83,120.38,90.21,37.435,45.84
+JI207.33-7,"Quite stubby, but clearly has terminations",2,220.7,219.22,141.18,165.58,71.22,77.69
+JI207.33-8,Basically black. Reddish tint,2,346.52,352.44,178.21,155.25,93.27,90.075
+JI207.33-9,"Also very stubby, but clearer than the others",2,136.18,136.34,92.74,66.36,32.085,28.44
+JI207.33-10,"Darker toward the center, lighter spots on the side, one peak more abraded than the other but terminations still present",3,194.69,193.73,110.64,86.78,49.34,53.87
+JI207.33-11,"Very parallelogram shaped. Dark, dark yellow but translucent",2,246.81,248.07,207.26,170.03,83.18,79.805
+NFCT-15,"Small dark spot in the center, but very clean terminations. Small inclusions",1,179.77,180.27,74.95,81.64,32.38,34.025
+JI10-1,Possible core--there are lines in the middle and I can't tel if they refect an overgrowth or crystal faces,2,181.71,183.56,83.67,80.22,33.195,24.955
+JI10-2,Possibly apatite,1,174.73,172.56,64.68,68.14,29.89,22.265
+JI10-3,Check apatite,2,170.22,169.74,72.4,59.61,23.02,23.455
+JI10-4,"Slight bend in crystal, one termination abraded",2,185.4,186.22,84.29,82.03,27.355,38.96
+JI10-5,"One termination very asymmetrical, plausibly abraded",2,130.13,130.41,66.59,65.98,29.53,24.86
+JI10-6,Check apatite; pretty transparent on wider side,2,152.73,154.08,69.75,81.9,36.36,25.245
+NFCT-16,"Kind of similar description to NFCT-15, but has a few flakes on one side and terminations are not AS well defined",2,243.59,246.56,88.32,80.46,42.255,40.1
+JI10-7,"Kind of fucked but could use if necessary. Slightly yellow, no inclusions, but slightly curved side",2,148.33,149.01,66.2,63.34,22.715,22.175
+JI10-8,Pretty dark but defined peaks,2,141.26,140.71,63.01,62.13,28.19,25.395
+JI10-9,"Hints of reddish brown in middle, one peak abraded. Very round",3,116,115.58,72.7,73.32,20.955,19.07
+JI23-1,one pyramid cut off,3,271.69,278.72,91.9,90.63,42.35,61.53
+JI23-2,Can't tell if very stubby and pyramids present or just broke to a super short section where it looks that way,2,164.76,165.34,94.27,60.21,29.82,20.095
+JI23-9,"Small, dark, no terminations",4,131.65,129.72,60.92,60.31,,
+JI23Ap-1,"Broken segment, top part angled",2,123.61,128.4,64.25,66.98,,
