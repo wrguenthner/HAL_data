@@ -1,0 +1,16 @@
+﻿"L1, L2 = maximum dimension of zircon (including tips) (in two orientations; mean used)",,,,,,,,
+"W1, W2 = mutually perpendicular widths of orthorhombic prism or equatorial diameters",,,,,,,,
+"h1, h2 = ""tip"" heights of pyramidal terminations",,,,,,,,
+AI = abrasion index:,,,,,,,,
+"apatite: 1 = both tips present, 1.5 = one tip missing, 2 = both tips missing, DUR = durango   ",,,,,,,,
+"zircon: 1-5 (1=euhedral, 5=rounded, 3=still has pyramids)",,,,,,,,
+,,,,,,,,
+sample_name,morph_comments,AI,L1_(um),L2_(um),W1_(um),W2_(um),h1_(um),h2_(um)
+NFCT-1,,2,204.71,202.86,108.43,95.36,45.29,38.97
+URL114.9-3,,2,182.61,181.29,79.15,82.54,28.89,37.005
+URL114.9-5,,3,123.75,124.37,61.84,58.59,28.035,20.895
+URL114.9-6,,2,157.19,154.49,87.3,81.45,34.065,35.92
+URL114.9-7,,3,194.97,194.26,80.86,74.04,28.38,27.635
+URL11.5-3,,2,176.09,176.9,83.78,85.1,32.625,31.98
+URL11.5-9,,1,224.17,222.94,92.96,94.07,46.03,49.22
+NFCT-20,,2,184.73,185.28,86.21,96.39,42.95,53.855

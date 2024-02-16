@@ -1,0 +1,47 @@
+"L1, L2 = maximum length of Crystal (including tips, in two orientations)"
+"W1, W2 = mutually perpendicular widths of orthorhombic prism or equatorial diameters"
+"h1, h2 = tip heights of pyramidal terminations (zircons only)"
+AI = abrasion index:
+"apatite: 1 = both tips present, 1.5 = one tip missing, 2 = both tips missing, DUR = durango"
+"zircon: 1-5 (1=euhedral, 5=rounded, 3=still has pyramids)"
+
+sample_name,morph_comments,AI,L1_(um),L2_(um),W1_(um),W2_(um),h1_(um),h2_(um)
+RK-FCT_01zr
+RK081623-01Aq_01zr
+RK081623-01Aq_02zr
+RK081623-01Aq_03zr
+RK081623-01Aq_04zr
+RK08162023-01Aq_05zr
+RK08162023-01Aq_06zr
+RK08162023-02Aq_01zr
+RK-FCT_02zr
+RK08162023-02Aq_02zr
+RK08162023-02Aq_03zr
+RK08162023-02Aq_04zr
+RK08162023-02Aq_05zr
+RK08162023-02Aq_06zr
+RK092623-02Ag_01zr
+RK092623-02Ag_02zr
+RK092623-02Ag_03zr
+RK-FCT-03zr
+RK092623-02Ag_04zr
+RK092623-02Ag_05zr
+RK092623-02Ag_06zr
+RK092423-04Ag_01zr
+RK092423-04Ag_02zr
+RK092423-04Ag_03zr
+RK092423-04Ag_04zr
+RK-FCT-UI1
+RK092423-04Ag_05zr
+RK092423-04Ag_06zr
+RK093023-01Ag_01zr
+RK093023-01Ag_02zr
+RK093023-01Ag_03zr
+RK093023-01Ag_04zr
+RK093023-01Ag_05zr
+RK-FCT-UI2
+RK093023-01Ag_06zr
+RK091023-03Cf_01zr
+Rk091023-03Cf_02zr
+Rk091023-03Cf_03zr
+RK091023-03Cf_05zr

@@ -1,0 +1,59 @@
+"L1, L2 = maximum length of Crystal (including tips, in two orientations)"
+"W1, W2 = mutually perpendicular widths of orthorhombic prism or equatorial diameters"
+"h1, h2 = tip heights of pyramidal terminations (zircons only)"
+AI = abrasion index:
+"apatite: 1 = both tips present, 1.5 = one tip missing, 2 = both tips missing, DUR = durango"
+"zircon: 1-5 (1=euhedral, 5=rounded, 3=still has pyramids)"
+
+sample_name,morph_comments,AI,L1_(um),L2_(um),W1_(um),W2_(um),h1_(um),h2_(um)
+FCTVV_Z1_EM
+Z22POC1_2
+Z22POC1_3
+Z22POC1_6
+Z23TR01_1_NM
+Z23TR01_2_NM
+Z23TR01_3_Mag
+FCTVV_Z2_EM
+Z23TR01_4_Mag
+Z23TR01_5_Mag
+Z23TR01_6_Mag
+Z23TR01_7_Mag
+Z23TR02W_1_Mag
+Z23TR02W_2_Mag
+Z23TR02W_3_Mag
+Z23TR02W_4_Mag
+FCTVV_Z3_EM
+Z23TR02W_5_Mag
+Z23TR02W_6_Mag
+Z23TR02W_7_Mag
+Z23TR03z_1_NM
+Z23TR03_2_NM
+Z23TR03_3_Mag
+std1521
+Z23TR03_4_Mag
+FCTVV_Z4_EM
+Z23TR03_5_Mag
+Z23TR03_6_Mag
+Z23TR03_7_Mag
+Z23TR03_8_Mag
+Z23TR06_1_Mag
+Z23TR06_2_Mag
+Z23TR06_3_Mag
+std1526
+FCTVV_Z5_EM
+Z23TR06_4_Mag
+Z23TRO6_5_Mag
+23TR06_6_Mag
+23TR06_7_Mag
+Z23TR06_8_NM
+Z23TR10_1_Mag
+Z23TR10_2_Mag
+Z23TR10_3_Mag
+FCTVV_Z6_EM
+Z23TR10_4_Mag
+Z23TR10_5_Mag
+std1559
+Z23TR10_6_Mag
+Z23TR10_7_NM
+Z23TR10_8_NM
+Z23TR10_9_NM

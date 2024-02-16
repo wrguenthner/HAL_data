@@ -1,32 +1,43 @@
-"L1, L2 = maximum length of Crystal (including tips, in two orientations)"
-"W1, W2 = mutually perpendicular widths of orthorhombic prism or equatorial diameters"
-"h1, h2 = tip heights of pyramidal terminations (zircons only)"
-AI = abrasion index:
-"apatite: 1 = both tips present, 1.5 = one tip missing, 2 = both tips missing, DUR = durango"
-"zircon: 1-5 (1=euhedral, 5=rounded, 3=still has pyramids)"
-
+"L1, L2 = maximum length of Crystal (including tips, in two orientations)",,,,,,,,
+"W1, W2 = mutually perpendicular widths of orthorhombic prism or equatorial diameters",,,,,,,,
+"h1, h2 = tip heights of pyramidal terminations (zircons only)",,,,,,,,
+AI = abrasion index:,,,,,,,,
+"apatite: 1 = both tips present, 1.5 = one tip missing, 2 = both tips missing, DUR = durango",,,,,,,,
+"zircon: 1-5 (1=euhedral, 5=rounded, 3=still has pyramids)",,,,,,,,
+,,,,,,,,
 sample_name,morph_comments,AI,L1_(um),L2_(um),W1_(um),W2_(um),h1_(um),h2_(um)
-RS_FCT_14
-RS21_RVG-1_Zr1
-RS21_RVG-1_Zr2
-RS21_RVG-1_Zr3
-RS21_RVG-1_Zr4
-RS21_CCG-2_Zr1
-RS21_CCG-2_Zr2
-RS_FCT_15
-RS21_CCG-2_Zr3
-RS21_WRG-5_Zr1
-RS21_WRG-5_Zr2
-RS21_WRG-5_Zr3
-RS21_WRG-5_Zr4
-RS_DUR_5
-RS21_GSs-1_Ap1
-RS21_GSs-1_Ap2
-RS21_GSs-1_Ap3
-RS21_GSs-1_Ap4
-RS21_WRG-4_Ap1
-RS21_WRG-4_Ap2
-RS_DUR_6
-RS21_WRG-5_Ap1
-RS21_WRG-5_Ap2
-NH18-04_Ap1
+RS_FCT_14,,2,225.06,227.12,101.78,103.36,47.39,36.32
+RS21_RVG-1_Zr1,,1,197.36,197.04,66.24,74.6,32,30.01
+RS21_RVG-1_Zr2,,2,284.38,285.94,116.58,121.25,45.58,45.47
+RS21_RVG-1_Zr3,,1,240.33,237.78,83.34,98.82,34.38,40.91
+RS21_RVG-1_Zr4,,2,191.37,192.27,75.25,72.38,29.79,26.92
+RS21_CCG-2_Zr1,,3,183.43,180.25,77.48,66.23,20.54,23.59
+RS21_CCG-2_Zr2,,3,195.5,194.94,62.36,69.5,27.02,35.02
+RS_FCT_15,,1,139.58,139.15,60.04,57.21,26.67,26.12
+RS21_CCG-2_Zr3,,3,172.87,170.63,58.3,57.56,23.48,21.71
+RS21_WRG-5_Zr1,,1,160.63,162,82.39,79.37,35.18,32.6
+RS21_WRG-5_Zr2,,1,277.92,277.86,102.02,78.02,35.43,36.22
+RS21_WRG-5_Zr3,,1,335.26,336.77,90.17,80.68,33.78,35.46
+RS21_WRG-5_Zr4,,2,291.63,292.71,87.51,84.14,34.22,34.36
+RS_DUR_5,,DUR,,,,,,
+RS21_GSs-1_Ap1,,1.5,91.68,88.57,62.33,61.32,,
+RS21_GSs-1_Ap2,,1,114.41,116.52,70.82,70.1,,
+RS21_GSs-1_Ap3,,1,111.37,113.91,61.4,81.94,,
+RS21_GSs-1_Ap4,,1.5,80.73,80.17,65.32,54.27,,
+RS21_WRG-4_Ap1,,1.5,140.24,138.74,92.48,96.18,,
+RS21_WRG-4_Ap2,,2,113.82,117.06,66.8,66.84,,
+RS_DUR_6,,DUR,,,,,,
+RS21_WRG-5_Ap1,,1.5,209.47,204.87,64.99,64.63,,
+RS21_WRG-5_Ap2,,2,137.86,137,70.61,70.5,,
+NH18-04_Ap1,,1.5,134.53,136.55,78.87,69.63,,
+NH18-04_Ap2,,1,110.4,109.11,63.7,62.05,,
+NH18-04_Ap3,,1,168.68,168.73,77.32,72.74,,
+NH18-04_Ap4,,1,103.22,102.7,73.01,73.85,,
+NH18-04_Ap5,,1,151.24,150.18,62.71,65.45,,
+RS_DUR_7,,DUR,,,,,,
+RS21_CCG-2_Ap1,,1,202.95,204.65,93.05,91.34,,
+RS21_CCG-2_Ap2,,1,147.43,146.88,96.17,81.32,,
+RS21_CCG-2_Ap3,,1,176.58,175.35,94.62,101.49,,
+RS21_RVG-1_Ap1,,1,199.18,202.17,64.01,63.45,,
+RS21_RVG-1_Ap2,,1,193.18,194.96,68.03,70.5,,
+RS21_RVG-1_Ap3,,1,150.88,149.13,85.73,75.7,,
