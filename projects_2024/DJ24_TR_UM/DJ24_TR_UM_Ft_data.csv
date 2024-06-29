@@ -1,0 +1,74 @@
+"L1, L2 = maximum length of Crystal (including tips, in two orientations)",,,,,,,,
+"W1, W2 = mutually perpendicular widths of orthorhombic prism or equatorial diameters",,,,,,,,
+"h1, h2 = tip heights of pyramidal terminations (zircons only)",,,,,,,,
+AI = abrasion index:,,,,,,,,
+"apatite: 1 = both tips present, 1.5 = one tip missing, 2 = both tips missing, DUR = durango",,,,,,,,
+"zircon: 1-5 (1=euhedral, 5=rounded, 3=still has pyramids)",,,,,,,,
+,,,,,,,,
+sample_name,morph_comments,AI,L1_(um),L2_(um),W1_(um),W2_(um),h1_(um),h2_(um)
+EM_FCTVV_Z1,Inclusions + nt clear,2,219.8,219,65.6,64.3,45.6,30.5
+EM_23UM01_Z1,"Clear, one blunt tip, ~3 inclusion",2,199.3,200,87.9,81.9,39.3,48.4
+EM_23UM01_Z2,"Clear, one zircon inclusions. One tip slightly blunt, pear shaped.",2,291.1,298.2,123.9,115.4,53.1,63.9
+EM_23UM01_Z3,"Clear, one tip blunt, inclusions present slightly yellowish on some part",2,255.1,256,106.6,93.8,54.5,55.5
+EM_23UM07_Z1,"One tip is blunt/broken, clear, little yellowish on one part of tip. Rugged.",2,180.8,180.3,100.2,92.8,51,56.6
+EM_23UM07_Z2,"Rough surface, little yellowish on one tip. Few inclusions. ",3,266.8,266.3,105.7,106.1,48.6,39.7
+EM_23UM07_Z3,"Clear, inclusions present. Tips seems to be broken, a little small, slightly yellowish stain. ",2,163.5,164.4,72.9,58.7,30,28.5
+EM_23TR01_Z1,Dark and fractured one tip is really blunt,3,204.1,204,101.9,92.9,47.3,45.8
+EM_FCTVV_Z2,Inclusions + nt Clear,1,208.9,208.2,82.8,72.8,40.6,42.1
+EM_23TR01_Z2,Dark/Fractured w/ both tips. A crack that goes across? (small),2,170.1,170.3,64.3,58.8,40.7,36.8
+EM_23TR01_Z3,Clear in middle otherwise fractured/damaged. A circular inclusion in middle. ,2,195.4,195.2,61.2,78.6,42.4,40.8
+EM_23TR01_Z4,Yellowish/Clear. One tip is blunt. (Tried to scrape off the yellow but was still there),3,213.1,212.6,87,83.8,38.9,39.2
+EM_23TR01_Z5,Not clear not dark. Few inclusions. One tip is blunt. ,2,167.6,170.1,76.5,64.1,48.4,33.4
+EM_23TR01_Z6,"Clear, Yellowish, tips are blunt. ",3,284.3,284.8,61.7,67.7,38.1,42.3
+EM_23TR01_Z7,Dark and brown but clear in middle. Broken tip (weird). Dark Inclusions. ,3,213,213.3,66.2,77.4,41.8,47.4
+EM_23TR01_Z8,Clear/Yellowish. A little weird shape. ,2,150.5,146.3,72.1,74,44.6,39.5
+EM_23TR03_Z1,"Clear, rusty colored, one tip blunt",2,240.1,240.8,104.9,98.8,64.3,67
+EM_FCTVV_Z3,"Inclusions + nt a dark point in middle in one side, clear",1,204.8,204.8,67.7,86.1,32.7,44.2
+EM_23TR03_Z2,"Clear, fractures but none goes across the crystal (core?) scratchy. ",2,244.3,243.9,66.2,64.2,54.3,52
+EM_23TR03_Z3,Dark (darker on center) fractured on tip is fully blunt,3,326.7,327.5,79.8,94,45.1,52.8
+EM_23TR03_Z4,"Dark, fractured (could be a crack going all across?) (lost and found)",2,239.8,239.8,68.1,94.9,42,54.6
+EM_23TR03_Z5,Dark DARK! Tips are really blunt,3,277.2,277.1,117.8,125.7,79,45.2
+EM_23TR03_Z6,Dark w/ both tips,2,363.3,362.9,126.5,132.3,95.6,89
+EM_23TR03_Z7,Dark w/ both tips but blunt (BROKEN inside packet),2,333.7,333.6,90.3,89.1,48.6,50.5
+EM_23TR03_Z8,"Clear, one tip is pointed but one tip is blunt and crooked. Few scratches but may be broken on one tip. ",3,177.2,178,67,73.9,40.9,42
+EM_23TR06_Z1,Dark w/ clear splotches. One tip looks clear.,2,332.9,333.3,132.1,124.7,84.6,84.1
+EM_FCTVV_Z4,"Inclusions + nt a little rough on one tip, clear",1,216.5,215.8,77.5,70.8,40.4,39
+EM_23TR06_Z2,Clear. Could be zonation or just scratches. Fractures. ,3,189,189.9,81.3,62.2,52.9,52.4
+EM_23TR06_Z3,"Dark on one side and clear on another. Brownish dark but not damaged dark. On clear side, brownish due.",2,256.3,256.5,87.7,125.4,69.2,81.1
+EM_23TR06_Z4,Clear. Blunt tips (Can be empty. I think I saw it after closing but it was not in the dish and didn't feel like it flew),3,136.4,136.4,63.7,73.8,28.7,30
+EM_23TR06_Z5,Dark in terms of fractured dirty. (BIG) One tip is fractured?,3,322.8,322.5,98.7,93.6,62.1,61.7
+EM_23TR06_Z6,"Dark with clear splotches. Dark on middle, one tip is broken.)",2,225.6,225.7,75,81.5,45,34.7
+EM_23TR06_Z7,Looks scratchy clear on one side and dark on flipped side.,2,247.7,247.5,120.7,92.2,74.6,60.4
+EM_23TR06_Z8,"Clear. Scratches look like fracture but not, darker on tips.",2,197.9,197.8,71.8,71.4,48.2,54.3
+EM_23TR10_Z1,"few inclusions, scratches, clear",2,281.6,280.7,75.8,71.5,44.6,52.1
+EM_FCTVV_Z5,Zircon inclusion clear (broken?),1,158.3,159.1,62,75.1,25.8,32.2
+EM_23TR10_Z2,"Scratches, rugged, slightly clear",2,163.4,163.5,61.4,60.5,34.5,36.5
+EM_23TR10_Z3,"Dark, one tip is rough",2,217.5,217.6,98.9,82.9,36,41.1
+EM_23TR10_Z4,"Dark, rough tips, stripes of clear",2,215.8,215.3,73.3,69.7,48.1,47
+EM_23TR10_Z5,"Dark, stripes of clear part? ",2,195.2,195.6,88.1,84.8,49.9,51.1
+EM_23TR10_Z6,"Clear, inclusions, scratches (empty?)",3,169.7,169,60.1,64.8,33,45.9
+EM_23TR10_Z7,"Clear, scratchy, dark on one tip. A fracture, but doesn't go all across",3,172.8,172.7,74.9,58.7,33.4,20.2
+EM_23TR10_Z8,Dark with light specs (seems like dark/damage is zoned)(lost and found),1,333.7,333.8,80.5,94.2,65.7,61.2
+EM_DUR_1,,DUR,,,,,,
+EM_20UM07_A1,Little indentations maybe from tweezers. Not inclusions. A little rugged on the side. ,1.5,181.9,182.6,68.3,85.6,,
+EM_20UM07_A2,Little rugged. A black dot like inclusions but does not glow in xpl (could just be tweezer marks). ,1,251.1,251.1,149.9,137.4,,
+EM_20UM07_A3,"Clear, the spots are indentations of tweezers (double checked under xpl)",1,209.6,211.8,77.3,81.4,,
+EM_20UM07_A4,"Clear, a tiniest dot (not an inclusion, looks like my tweezers mark). A little cracked/broken.",1,148.6,149.3,73.8,76,,
+EM_20UM07_A5,Two small inclusions otherwise good (best choice among others). ,1.5,202.8,203.4,93.9,99.1,,
+EM_23UM01_A1,"Rough structure, one dot inclusion, lines becauser of abraded crystal structure",1,125.5,124.7,99,108.3,,
+EM_23UM01_A2,Rough crystal structure on the sides mainly a little dirtyish,1.5,92.2,92.3,81.5,91.9,,
+EM_DUR_2,,DUR,,,,,,
+EM_23UM07_A1,Three little dot inclusions and rough edges (lost and found twice),1,128.7,129.3,99.9,90.6,,
+EM_23UM07_A2,"one inclusion, tweezer marks which looks like inclusion",1,104.9,104.5,78.4,80.5,,
+EM_23TR01_A1,Diagonally abraded dotted inclusion (~2) One dark inclusion (or a tweezer mark),1.5,112.4,113.6,70.2,62.5,,
+EM_23TR01_A2,"Rough edges, dotted inclusion (~3)(small) tweezer marks.",2,121.6,122.6,69.2,60.6,,
+EM_23TR01_A3,"Very rough edges, three dot inclusion, other tweezer marks, two bubble inclusion? Or just tweezer marks. (Would not choose in other circumstances)",1.5,112.4,112.9,80,74.2,,
+EM_23TR06_A1,"Tiny dot like inclusion, little rough. Tweezer marks",1.5,154.3,153.1,98.7,76,,
+EM_23TR06_A2,little rough on edges. Dot stain like inclusion,1.5,180.7,181.6,75.9,76.9,,
+EM_23TR06_A3,dotted inclusion (~1),1,166.1,166.1,107,104,,
+EM_DUR_3,,DUR,,,,,,
+EM_23TR06_A4,Dot inclusion (~1) bubble like thing but not inclusion and surface of crystal,1,147.4,147,105.5,99.5,,
+EM_23TR06_A5,Tweezer marks dot inclusion (~1) square? Abraded diagonally,2,140.3,140.4,103.2,89.5,,
+EM_23TR06_A6,"Tweezer marks, two dot inclusion elongated hexagonal shape?",2,143.2,143.5,89,78.9,,
+EM_23TR06_A7,Tweezer marks. Dot inclusions (~1) Little rough edges,1.5,145.4,144.3,91.6,78.7,,
+EM_23TR06_A8,"Some dotted inclusions on outside, weird shape, diagonally abraded a little rough. ",2,128.3,128.8,77.7,78.5,,
