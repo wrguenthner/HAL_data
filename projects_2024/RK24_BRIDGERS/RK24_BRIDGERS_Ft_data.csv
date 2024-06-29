@@ -1,47 +1,47 @@
-"L1, L2 = maximum length of Crystal (including tips, in two orientations)"
-"W1, W2 = mutually perpendicular widths of orthorhombic prism or equatorial diameters"
-"h1, h2 = tip heights of pyramidal terminations (zircons only)"
-AI = abrasion index:
-"apatite: 1 = both tips present, 1.5 = one tip missing, 2 = both tips missing, DUR = durango"
-"zircon: 1-5 (1=euhedral, 5=rounded, 3=still has pyramids)"
-
+"L1, L2 = maximum length of Crystal (including tips, in two orientations)",,,,,,,,
+"W1, W2 = mutually perpendicular widths of orthorhombic prism or equatorial diameters",,,,,,,,
+"h1, h2 = tip heights of pyramidal terminations (zircons only)",,,,,,,,
+AI = abrasion index:,,,,,,,,
+"apatite: 1 = both tips present, 1.5 = one tip missing, 2 = both tips missing, DUR = durango",,,,,,,,
+"zircon: 1-5 (1=euhedral, 5=rounded, 3=still has pyramids)",,,,,,,,
+,,,,,,,,
 sample_name,morph_comments,AI,L1_(um),L2_(um),W1_(um),W2_(um),h1_(um),h2_(um)
-RK-FCT_01zr
-RK081623-01Aq_01zr
-RK081623-01Aq_02zr
-RK081623-01Aq_03zr
-RK081623-01Aq_04zr
-RK08162023-01Aq_05zr
-RK08162023-01Aq_06zr
-RK08162023-02Aq_01zr
-RK-FCT_02zr
-RK08162023-02Aq_02zr
-RK08162023-02Aq_03zr
-RK08162023-02Aq_04zr
-RK08162023-02Aq_05zr
-RK08162023-02Aq_06zr
-RK092623-02Ag_01zr
-RK092623-02Ag_02zr
-RK092623-02Ag_03zr
-RK-FCT-03zr
-RK092623-02Ag_04zr
-RK092623-02Ag_05zr
-RK092623-02Ag_06zr
-RK092423-04Ag_01zr
-RK092423-04Ag_02zr
-RK092423-04Ag_03zr
-RK092423-04Ag_04zr
-RK-FCT-UI1
-RK092423-04Ag_05zr
-RK092423-04Ag_06zr
-RK093023-01Ag_01zr
-RK093023-01Ag_02zr
-RK093023-01Ag_03zr
-RK093023-01Ag_04zr
-RK093023-01Ag_05zr
-RK-FCT-UI2
-RK093023-01Ag_06zr
-RK091023-03Cf_01zr
-Rk091023-03Cf_02zr
-Rk091023-03Cf_03zr
-RK091023-03Cf_05zr
+RK-FCT_01zr,"Super clear, doubly terminated, one tip very slightly rounded, abundant needle-like inclusions, slight bulge on one side of grain",2,334.18,332.68,119.24,94.3,43.67,46.56
+RK081623-01Aq_01zr,"grain is yellowed, 1-2 core zones with euhedral terminations and rim overgrowths visible, no inclusions visible. Goofed and forgot to measure second L&W dimensions. Repeated initial measurement",2,238.88,238.88,113,113,27.75,34.08
+RK081623-01Aq_02zr,"grain is tarnished orange-yellow on one end, clear core zone visible, no visible inclusions, ",2,225.67,229.45,124.57,125.01,48.52,36.15
+RK081623-01Aq_03zr,"mostly clear but rounded, possible fracture just off-center running across width, few small round inclusions visible, slight tarnish on outside of grain",4,230.48,229.74,111.81,84.26,35.01,27.87
+RK081623-01Aq_04zr,"slight yellow tarnish on surface, interior looks clear, some small inclusions, two tips both a little rounded",2,215.6,216.19,85.15,76.06,31.42,41.03
+RK08162023-01Aq_05zr,"very clear grain, no apparent surface tarnish, few small inclusions, both ends rounded but one retains part of a tip",3,196.72,198.18,78.19,92.09,38.32,37.93
+RK08162023-01Aq_06zr,"relatively clear, one tip, one rounded, few small inclusions, mantle zone is not as clear as core - possibly slightly metamict",3,236.56,236.68,95.75,92.48,35.5,61.36
+RK08162023-02Aq_01zr,"cloudy, orange-red tarnish on one end, yellow tint on entire grain, one tip rounded one almost euhedral, inclusions not visible if present, ONE END BROKEN",2,264.56,242.74,98.02,87.445,38.69,34.61
+RK-FCT_02zr,"Slightly cloudy/yellow stained, doubly terminated, one tip slightly broken, a fragment of qz or fsp? On one side of the grain",2,365.5,364.91,128.86,135.45,44.85,72.19
+RK08162023-02Aq_02zr,"cloudy, one end slightly orange tinged, no inclusions visible but less cloudy than 01zr, both ends slightly rounded but overall geometry close to euhedral, ONE END BROKEN",2,277.58,273.78,98.55,99.52,39.27,39.53
+RK08162023-02Aq_03zr,"very cloudy, yellow stained, mild orange staining, interior fractures possible, one end more rounded, one almost euhedral",3,254.27,252.29,89.73,82.28,20.64,30.7
+RK08162023-02Aq_04zr,"somewhat clear, no apparent orange or yellow staining, internal fractures visible, may be metamict, both ends pretty rounded",4,258.62,257.94,93.92,89.82,32.29,30.35
+RK08162023-02Aq_05zr,"somewhat clear, many internal fractures, mild yellow staining, small inclusions visible in clearest oart of grain, both ends somewhat rounded",4,245.5,243.88,101.19,77.37,41.28,44.55
+RK08162023-02Aq_06zr,"very cloudy, very red-stained, interior looks fractured, both ends rounded",5,275.48,273.3,89.18,70.51,38.42,31.93
+RK092623-02Ag_01zr,"tarnished red on one surface, yellowed, both ends only slightly rounded from euhedral, interior looks clear but fractured, inclusions not visible if present",2,348.03,348.82,138.94,142.43,58.15,57.75
+RK092623-02Ag_02zr,"Relatively clear, some sides more red-orange tarnished than others, one end very rounded, one almost euhedral end, interior clear but fractured, no inclusions visible",3,336.41,331.01,131.38,113.67,50.92,49.58
+RK092623-02Ag_03zr,"Very cloudy yellow, interior not visible, both ends close to euhedral",2,342.27,343.97,99.53,120.94,46.34,24.06
+RK-FCT-03zr,"Minor surface tarnish and pitting, interior clear, some large inclusions",2,408.53,407.22,151.61,150.54,93.16,29.87
+RK092623-02Ag_04zr,"Pretty cloudy yellow, some portions of the interior visible it seems clear, ends very rounded",4,387.32,390.38,133.23,130.13,57.88,25.6
+RK092623-02Ag_05zr,"Exterior only mildly yellowed, interior is clear but very fractured, both ends pretty rounded",4,373.87,380.56,119.29,112.41,42.98,57.45
+RK092623-02Ag_06zr,"Exterior only mildly yellowed, interior is clear, mildly fractured, one end rounded, the other almost euhedral",3,383.63,384.93,125.41,110.23,50.22,48.16
+RK092423-04Ag_01zr,"Very yellow stained, interior is not very visible, ends relatively rounded",4,268.61,264.48,117.25,101.61,34.27,52.38
+RK092423-04Ag_02zr,"Red stained exterior, very clear interior, both ends pretty euhedral, clear core zone does not look euhedral, some internal fractures",2,355.03,357.63,135.84,118.45,67.75,82.93
+RK092423-04Ag_03zr,"Mildly yellow and red stained exterior, ends slightly broken, large crack through the grain, interior appears very cloudy",2,391.03,391.42,132.42,154.06,70.86,65.99
+RK092423-04Ag_04zr,"Very red-stained grain, large grain, pretty abraded, interior not visible",4,329.59,330.07,147.19,138.63,66.01,74.81
+RK-FCT-UI1,"one edge has small flake, both tips euhedral, several small inclusions, grain slightly cloudy on one surface",2,340.41,340.49,149.41,118.19,76.1,49.7
+RK092423-04Ag_05zr,"Somewhat stained exterior, one end very rounded, one end almost euhedral, interior seems clear, some mild pitting on surface as well",3,277.69,279.86,117.99,100.03,26.45,56.74
+RK092423-04Ag_06zr,"Somewhat stained, clear interior, fractured, small inclusions visible, one end very very rounded, the other pretty rounded",5,301.91,301.56,130.45,123.68,42.82,61.67
+RK093023-01Ag_01zr,"yellow stained, interior clear but many fractures along long axis, minor surface pitting, both ends rounded",5,282.84,281.07,105.57,96.61,62.52,65.63
+RK093023-01Ag_02zr,"somewhat yellow stained, interior appears relatively clear, ends slightly rounded and one broken a bit",3,319.82,317.67,105.93,101.28,56.48,67.94
+RK093023-01Ag_03zr,"Moderately yellow and red stained, interior clear but many long axis fractures, ends relatively rounded but almost euhedral in some views",2,335.58,335.09,107.04,111.15,44.44,59.91
+RK093023-01Ag_04zr,"Moderately yellow stained, minor surface pitting, interior seems clear but fractured in multiple orientations, small inclusions possibly?, both ends relatively rounded",4,310.71,309.46,100.41,101.88,43.31,39.68
+RK093023-01Ag_05zr,"only mildly cloudy exterior, interior clear, possible radial fractures from center - metamict?, both ends close to euhedral",2,321.15,322.12,99.42,97.95,58.83,59.16
+RK-FCT-UI2,"broken diagonally near one tip, several acicular inclusions, one tip euhedral, core region is dark and speckled (old inherited core maybe?)",3,361.78,360.14,118.18,109.85,47.64,68.38
+RK093023-01Ag_06zr,"Minor surface pitting, interior clear but fractured, ends both relatively rounded",3,301.37,302.07,115.34,110.71,55.37,65.73
+RK091023-03Cf_01zr,"Very clear, minor surface pitting, small inclusions, both ends rounded, one slightly broken",3,152.46,152.91,75.05,62.66,23.6,20.32
+Rk091023-03Cf_02zr,"Very rounded, clear with one large crunched area on exterior, small inclusions visible",5,172.72,173.72,95.08,88.4,12.74,37.89
+Rk091023-03Cf_03zr,"Yellow stained, rounded, very small, interior clear, some small inclusions",4,120.52,119.01,45.56,59.26,19,22.46
+RK091023-03Cf_05zr,"Completely red stained and opaque, ends close to euhedral but not symmetric",3,129.93,131.75,64.63,55.29,27.87,22.49
