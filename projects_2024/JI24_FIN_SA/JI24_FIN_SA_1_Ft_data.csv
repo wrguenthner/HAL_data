@@ -6,48 +6,48 @@ AI = abrasion index:,,,,,,,,
 "zircon: 1-5 (1=euhedral, 5=rounded, 3=still has pyramids)",,,,,,,,
 ,,,,,,,,
 sample_name,morph_comments,AI,L1_(um),L2_(um),W1_(um),W2_(um),h1_(um),h2_(um)
-NFCT-2,,,,,,,,
-URL11.5-10,,,,,,,,
-URL11.5-11,,,,,,,,
-URL11.5-12,,,,,,,,
-URL114.9-8,,,,,,,,
-URL114.9-9,,,,,,,,
-URL114.9-10,,,,,,,,
-URL114.9-11,,,,,,,,
-NFCT-8,,,,,,,,
-URL114.9-12,,,,,,,,
-URL114.9-13,,,,,,,,
-URL271.0-1,,,,,,,,
-URL271.0-2,,,,,,,,
-URL271.0-3,,,,,,,,
-URL271.0-4,,,,,,,,
-URL271.0-5,,,,,,,,
-NFCT-21,,,,,,,,
-URL271.0-6,,,,,,,,
-URL271.0-7,,,,,,,,
-URL271.0-8,,,,,,,,
-URL271.0-9,,,,,,,,
-URL271.0-10,,,,,,,,
-JI38.45-27,,,,,,,,
-JI38.45-28,,,,,,,,
-NFCT-22,,,,,,,,
-JI38.45-29,,,,,,,,
-JI38.45-30,,,,,,,,
-JI38.45-31,,,,,,,,
-JI38.45-32,,,,,,,,
-NFCT-23,,,,,,,,
-JIDur-4,DUR,,,,,,,
-URLAP114.9-1,,,,,,,,
-URLAP114.9-2,,,,,,,,
-URLAP114.9-3,,,,,,,,
-URLAP114.9-4,,,,,,,,
-URLAP114.9-5,,,,,,,,
-URLAP114.9-6,,,,,,,,
-URLAP114.9-7,,,,,,,,
-JIDur-5,DUR,,,,,,,
-URLAP114.9-8,,,,,,,,
-JI38.45AP-8,,,,,,,,
-JI38.45AP-9,,,,,,,,
-JI38.45AP-10,,,,,,,,
-JI38.45AP-11,,,,,,,,
-JIDur-6,DUR,,,,,,,
+NFCT-2,,2,221.38,230.08,101.77,135.73,60.295,45.005
+URL11.5-10,Slightly small on one side. Very pink interference colors,3,141.97,140.71,71.73,57.92,27.115,25.375
+URL11.5-11,"Small circular inclusion in center, but otherwise very clear",1,111.32,111.8,70.27,67.75,28.35,26.385
+URL11.5-12,"slightly small, very stubby",1,88.09,89.05,58.77,61.63,22.495,22.085
+URL114.9-8,"light brown, pleochrism is to slight blue, with a brown smatter in the middle. Slight apparent overgrowth 2-3 um thick",2,167.9,169.52,58.04,73.21,37.475,27.385
+URL114.9-9,"both tips cracked off, about the same color as -8",3,128.54,127.7,66.07,66.42,25.19,22.735
+URL114.9-10,"strawish yellow, but could be clear",2,128.84,128.54,60.19,65.55,32.005,30.76
+URL114.9-11,round inclusion with diameter the width of the grain. Maybe a core?,2,105.02,106.28,61.76,52.56,24.8,27.045
+NFCT-8,"Part of one peak cracked off, but can still see terminations",2,260.99,259.88,108.74,112.83,46.62,44.205
+URL114.9-12,Very long and thin. Pale blue pleochroism,2,166.15,167.28,48.24,47.25,24.65,24.635
+URL114.9-13,"Also slightly too thin. Has elongate, euhedral core",2,119.12,118.5,53.33,54.22,22.605,25.335
+URL271.0-1,small black dot in the middle,2,153.42,153.03,62.65,60.84,25.82,29.925
+URL271.0-2,"Slight growth on one side making it wider, but euhedral. Doesn't appear zoned",2,121.89,120.9,59.11,69.49,25.275,30.31
+URL271.0-3,"Small nick on one side approximately 5 um, triangular in shape",2,155.33,156.24,70.42,66.8,35.66,34.57
+URL271.0-4,2 um too short on one side. Light yellow,2,121.78,121.99,62.86,58.08,23.225,23.86
+URL271.0-5,"too thin by 5-8 um on one side, but very clear",2,143.64,143.78,54.56,77.34,27.085,21.33
+NFCT-21,"lots of short, elongate intrusions",1,213.1,215.43,80.82,80.15,39.005,33.055
+URL271.0-6,,2,167.1,167.16,64.84,66.8,28.09,28.875
+URL271.0-7,Has a core but appears to extend almost exactly up to the edge. A rim of only ~5 um,2,142.65,142.05,62.51,67.31,28.36,28.42
+URL271.0-8,"slightly rectangular growth on one side, but good pyramids. Small black inclusion",2,111.72,109.98,59.44,67.04,23.145,14.765
+URL271.0-9,"Too thin on one side, about 40 microns. Long thin core",2,116.47,115.98,51.84,41.78,17.26,16.15
+URL271.0-10,Part of one side is more pleochroic than the other. Weird zoning?,2,129.8,129.69,51.42,58.16,28.475,23.315
+JI38.45-27,"very clear, too thin on one side by 5 um",2,122.89,122.82,56.18,71.45,32.02,38.38
+JI38.45-28,"very clear, one pick more broken off. Squareish crystal core",2,140.61,138.54,81.71,64.98,50.74,43.125
+NFCT-22,"wide, clearer but some small black lines in it. One tip cut flat off",1,181.92,178.83,91.74,67,41.945,39.565
+JI38.45-29,"small elongate inclusion inside, but very clear",2,116.16,115.28,65.93,67.83,37.665,29.8
+JI38.45-30,Long thin line down middle,2,181.69,182.52,63.5,60.39,34.965,37.01
+JI38.45-31,Part of one side missing,2,83.35,84.56,53.23,50.02,22.095,21.905
+JI38.45-32,,3,95.84,94.47,62.75,60.03,18.235,21.74
+NFCT-23,Small zircons inside on one top. One tip cut flat off at the veeeery tip,2,188.99,188.96,81.71,80.79,32.18,41.02
+JIDur-4,,DUR,199.08,,,,,
+URLAP114.9-1,Terminations present but rounded. No inclusions,2,180.82,180.81,97.35,88.8,,
+URLAP114.9-2,,1.5,171.5,170.63,110.97,112.46,,
+URLAP114.9-3,A little bit from the side missing,2,159.39,160.86,70.77,65.04,,
+URLAP114.9-4,,2,155.29,155.6,86.24,86.79,,
+URLAP114.9-5,,2,167.66,170.75,69.57,61.98,,
+URLAP114.9-6,"Maybe a single tiny black dot on the left side. Slants toward pyramid present, but no pyramid",2,103.73,103.41,62.62,61.64,,
+URLAP114.9-7,Middle section,2,173.97,174.18,95.33,94.52,,
+JIDur-5,,DUR,272.51,,,,,
+URLAP114.9-8,,2,137.57,140.95,93.35,87.11,,
+JI38.45AP-8,"1 little inclusion, fragments of a micron. 1 solid peak",1.5,204.04,204.08,83.2,82.6,,
+JI38.45AP-9,,2,235.57,234.07,79.64,66.61,,
+JI38.45AP-10,,1.5,248.6,249.45,75.8,69.28,,
+JI38.45AP-11,"Each end has a little nibble coming out, but it's extremely minor. No inclusions",2,242.56,246.42,88.87,89.94,,
+JIDur-6,,DUR,304.36,,,,,
