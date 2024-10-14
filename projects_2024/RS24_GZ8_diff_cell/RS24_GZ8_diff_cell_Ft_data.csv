@@ -1,0 +1,36 @@
+"L1, L2 = maximum length of Crystal (including tips, in two orientations)"
+"W1, W2 = mutually perpendicular widths of orthorhombic prism or equatorial diameters"
+"h1, h2 = tip heights of pyramidal terminations (zircons only)"
+AI = abrasion index:
+"apatite: 1 = both tips present, 1.5 = one tip missing, 2 = both tips missing, DUR = durango"
+"zircon: 1-5 (1=euhedral, 5=rounded, 3=still has pyramids)"
+
+sample_name,morph_comments,AI,L1_(um),L2_(um),W1_(um),W2_(um),h1_(um),h2_(um)
+RS24_GZ8_150_1
+RS24_GZ8_175_1
+RS24_GZ8_200_1
+RS24_GZ8_225_1
+RS24_GZ8_250_1
+RS24_GZ8_275_1
+RS24_GZ8_300_1
+RS24_GZ8_325_1
+RS24_GZ8_350_1
+RS24_GZ8_375_1
+RS24_GZ8_400_1
+RS24_GZ8_370_2
+RS24_GZ8_340_2
+RS24_GZ8_310_2
+RS24_GZ8_280_2
+RS24_GZ8_260_2
+RS24_GZ8_295_3
+RS24_GZ8_330_3
+RS24_GZ8_360_3
+RS24_GZ8_390_3
+RS24_GZ8_420_3
+RS24_GZ8_450_3
+RS24_GZ8_475_3
+RS24_GZ8_500_3
+RS24_GZ8_485_4
+RS24_GZ8_460_4
+RS24_GZ8_440_4
+RS24_GZ8_410_4
