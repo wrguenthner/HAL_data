@@ -1,0 +1,95 @@
+"L1, L2 = maximum length of Crystal (including tips, in two orientations)",,,,,,,,
+"W1, W2 = mutually perpendicular widths of orthorhombic prism or equatorial diameters",,,,,,,,
+"h1, h2 = tip heights of pyramidal terminations (zircons only)",,,,,,,,
+AI = abrasion index:,,,,,,,,
+"apatite: 1 = both tips present, 1.5 = one tip missing, 2 = both tips missing, DUR = durango",,,,,,,,
+"zircon: 1-5 (1=euhedral, 5=rounded, 3=still has pyramids)",,,,,,,,
+,,,,,,,,
+sample_name,morph_comments,AI,L1_(um),L2_(um),W1_(um),W2_(um),h1_(um),h2_(um)
+RK24_FCT_01,"clear, lots of small needley inclusions, both tips present but one slightly chipped, very euhedral overall",2,269.65,266.54,106.29,122.33,44.08,27.34
+Z061224_XAqf_01,"very clear interior, several small inclusions including one small zircon(?), euhedral tip of core visible faintly in interior, both ends rounded with one very rounded and one only slightly rounded",3,320.04,318.45,100.33,83.71,24.43,36.57
+Z061224XAqf_02,"very clear interior, several small inclusions, both ends moderately rounded, edges slightly darker in color",4,236.92,236.92,96.42,91.01,27.97,27.37
+Z061224XAqf_03,"very clear interior, several inclusions, crack through center?/slight cloudiness and black speck near core, both ends present and only mildly rounded",2,260.4,261.47,105.68,99.82,49.72,50.35
+Z061224XAqf_04,"extremely clear interior, many small inclusions, both end present and mildly rounded",2,248.07,250.25,80.68,64.73,23.82,22.68
+Z061224_XAqf_05,"somewhat cloudy interior, core appears slightly gray/dark, exterior moderately yellow/brown/black stained, both tips present but mildly rounded",3,273.41,271.91,85.74,81.47,27.35,42.25
+Z061224_XAqf_06,"cloudy interior, no inclusions visible, exterior mildly yellow stained, both tips rounded",3,275.82,272.22,102.18,103.17,22.79,29.01
+Z061224_XAqf_07,"cloudy interior, no inclusions visible, both tips present and almost euhedral (rounded in view b)",3,222.34,219.14,100.48,95.9,47.52,31.93
+RK24_FCT_02,"clear, several needley inclusions, both tips present and intact, very euhedral, side b shows one tip is off-center",2,238.56,236.82,83.89,83.64,40.87,37.25
+Z061224_XAqf_08,"slightly cloudy interior and somewhat clear, no inclusions visible, both ends somewhat rounded but one close to euhedral",2,280.14,278.82,98.89,83.72,31.71,41.83
+Z081523_01Aq_01,"stained yellow with patches of red-orange, tips mostly intact, slight abrasion on one tip. Surfaces are also slightly chipped/abraded, unable to see much of interior but patches visible towards the edges and tips appear mostly clear",2,545.99,539.83,188.85,173.89,80.97,70.97
+Z081523-01Aq_02,"both tips intact, but moderately abraded. Yellow/orange staining, difficult to see interior of grain",3,498.99,497,184.41,146.07,65.57,52.78
+Z081523-01Aq_03,"tips intact but mildly rounded, surface staining minimal, interior appears very clear, no inclusions visible, mild to moderate surface abrasion and rounding",2,512.36,506.72,176.46,117.38,64.27,64.27
+Z081523-01Aq_04,"tips pretty rounded, surfaces chipped and abraded. Surface staining minor and patchy. Interior appears clear, some small round inclusions visible.",3,664.84,665.77,164.75,182.5,38.06,81.48
+Z081523-01Aq_05,"both tips intact, one rounded. One surface abraded, mild staining (orange to brown/black). Interior appears clear where visible, some small inclusions",2,605.83,608.51,220.18,182.07,76.27,78.98
+Z081523-01Aq_06,"one tip half broken/abraded, several small black inclusions (/staining?) visible, surfaces very yellowed",4,578.78,587.88,171.06,151.9,64.62,65.18
+Z081523-01Aq_07,"both ends rounded, otherwise nice euhedral grain. Surface staining yellow to red and moderate. Several small dark inclusions visible",2,528.99,537.3,188.23,175.7,86.94,66.18
+RK24_FCT_03,"clear, very fractured, some small inclusions visible, mild surface abrasion/irregularity, one tip perfect the other slightly chipped",2,324.1,327.84,114.04,112.84,41.44,38.1
+Z081523-01Aq_08,"abraded, one broken end one rounded, staining moderate (yellow), some small inclusions visible",4,494.49,502.78,188.36,175.72,67.04,20
+Z061223-XAbg_01,"very clear interior, small round inclusions visible (fluid incl?), both ends rounded but otherwise close to euhedral",3,180.83,181.29,80.18,66.41,22.99,17.41
+Z061223-XAbg_02,"clear interior, edges slightly more yellow/cloudy, both ends rounded, small fractures and/or inclusions visible near core",3,193.26,192.55,84.51,61.53,27.35,25.51
+Z061223-XAbg_03,"clear interior, small round inclusions visible (fluid incl?), both tips present and only very slightly chipped/rounded",2,295.32,296.97,95.84,78.82,34.02,34.21
+Z061224-XAbg_04,"mostly cloudy interior, mild yellow surface staining, both tips present with one very rounded and one only slightly rounded",2,303.94,303,96.33,96.77,25.69,28.23
+Z061224-XAbg_05,"mildly cloudy interior, moderate surface staining (yellow and brown), both tips somewhat rounded, no inclusions visible, one brown-stained crack through center visible in view b",3,288.71,290.67,85.67,93.7,38.46,40.74
+Z061224-XAbg_06,"mostly clear interior with central round core appearing brown/gray, surface not stained, both tips present only very slightly rounded/chipped, 2 small tabular inclusions visible",2,244.51,248.62,98.9,84.83,35.47,42.33
+RK24-FCT_04,"very clear, several small needley inclusions, both tips present one slightly rounded the other euhedral but off-center",2,240.3,241.79,79.03,87.31,35.5,26.02
+Z061224-XAbg_07,"mostly clear interior, some patchy cloudiness, one end very rounded and the other mildly rounded, no inclusions visible, **W2 is a measure of an oblique view - actual face is shorter",4,281.64,279.33,100.11,115.17,32.01,25.69
+Z061224-XAbg_08,"clear but *dark* interior, few small inclusions visible, no interior cracks or cloudiness, edges/rim appears darker & opaquw, both ends rounded",3,213.81,216.26,78.94,76.41,27.35,20.5
+Z081623-01Aq_07,"interior opaque, grain very rounded/abraded, no inclusions visible, small fractures visible near tips, both tips broken and rounded",4,324.17,329.51,138.45,130.27,17.2,34.44
+Z081623-01Aq_08,"grain has both tips though rounded, surface staining moderate (yellow), interior mostly opaque, no inclusions visible",2,272.73,266.36,138.76,133.58,73.38,59.44
+Z092423-04Ag_07,"grain interior cloudy, exterior mildly yellow stained, very abraded and rounded, one tip looks broken and rounded",4,271.28,272.68,90.57,85.92,30.7,13.12
+Z092423-04Ag_08,"grain interior appears cloudy and fractured, exterior mildly yellowed, one tip almost euhedral, the other broken and rounded",3,204.24,206.5,69.88,84.52,26.99,18.09
+Z061124-Aqf_03,"mostly clear interior with some spiderwebbing cloudiness, no inclusions visible, both ends rounded but one less than the other",2,212.26,212.79,79.45,63.02,30.24,28.33
+RK24-FCT_05,"clear, slight yellow-brown surface staining, several small inclusions, surface slightly irregular, both tips present and euhedral",1,249.52,250.4,107.26,96.25,36.29,43.93
+Z061124-Aqf_04,"interior moderately cloudy, exterior staining mild (yellow-orange), edges slightly chipped, no inclusions visible, both tips rounded but terminations still clear, view b - one tip nearly euhedral the other *broken*",3,200.23,205.34,91.38,81.84,24.69,24.69
+Z061124-Aqf_01,"somewhat cloudy interior, mild yellow surface staining, some orange staining, both ends very blunt and rounded maybe broken",5,234.68,235.6,123.18,104.02,25.7,24.79
+Z061124-Aqf_02,"clear but dark interior, no inclusions visible, only mild yellow-orange staining, both tips present one almost euhedral one pretty rounded",3,328.1,332.44,105.26,109.11,36.82,40.8
+Z093023-01Ag_07,"core region appears cloudy with the rest of the grain interior appearing black, both ends mildly rounded and sides slightly chipped, minor surface yellowing",2,305.16,304.86,97.65,82.8,31.11,20.56
+Z093023-01Ag_08,"interior appears very dark gray/black but not opaque. Both ends very rounded, one crack bisects most of the grain, no visible inclusions",5,220.88,221.99,106.13,84.59,37.98,13.17
+Z081623-02Aq_07,"grain interior appears opaque/cloudy white, no inclusions visible, red branching surface staining, both tips present but rounded",3,218.06,218.12,92.46,98.37,34.15,26.32
+Z081623-02Aq_08,"grain interior mostly cloudy/white, some areas near core appear shinier/more clear, both tips rounded, moderate red staining on grain surface",3,258.32,259.53,94.67,86.32,21.86,28.73
+Z061224-XAq_01,"interior mostly clear, some yellow-tinged fractures cut across the grain, a few tiny inclusions visible, both tips present and only slightly chipped/rounded",2,233.69,234.93,78.23,69.39,36.19,35.59
+RK24-FCT_06,"very clear, several large inclusions, one tip chipped/broken, the other euhedral",2,224.58,227.98,92,105.22,33.46,34.19
+Z061224-XAq_02,"mostly clear interior with some cloudiness and yellowed fractures, mild yellow surface staining, pretty abraded/rounded, both tips still present but overall grain shape is a bit lumpy and tips are rounded",3,289.81,290.55,130.58,121.37,54.53,73.83
+Z061224-XAq_03,"surface staining almost obscures interior - some patches look clear though fractured, grain pretty abraded, one end seems chipped the other pointy but rounded somewhat",3,205.33,207.71,96.8,98.34,41.8,27.45
+Z061224-XAq_04,"interior clear, a few fractures across the grain, some very small inclusions, one end very rounded the other slightly chipped but otherwiser pointy",2,260,258.76,119.84,110.09,36.6,40.28
+Z061224-XAq_05,"interior cloudy, one tip looks somewhat clear?, exterior yellow staining moderate, one end very rounded, the other only somewhat",3,233.43,228.97,97.19,100.09,39.11,25.54
+Z061224-XAq_06,"interior mildly cloudy, surface staining patchy and mild, tips slightly chipped but otherwise very euhedral grain, no inclusions visible, tips appear rounded in view b",2,305.33,309.77,110.87,116.63,65.48,48.04
+Z061224-XAq_07,"interior is somewhat cloudy, exterior mildly yellow-tinged, grain nearly euhedral with both tips in tact",1,230.35,227.28,117.3,123.71,44.39,39.67
+RK24-FCT_07,"clear but many small to medium inclusions, some round some needley, sides abraded, tips chipped and rounded",3,297.49,295.9,122.1,118.4,40.1,33.63
+Z061124-Aqf_05,"dark but clear interior, 2 very small inclusions visible, not much surface staining, one end very rounded the other may be chipped, one face looks slightly lumpy",3,189.63,190.48,76.86,73.51,17.03,15.14
+Z061124-Aqf_06,"mostly clear but dark interior, mild cloudiness esp near core, both tips present, one slightly rounded, one small inclusion visible, view b one end broken!",3,191.1,191.23,81.21,75.71,29.7,23.76
+Z061124-Aqf_07,"cloudy interior, mild yellow surface staining, no inclusions visible, one tip half broken, one tip euhedral!",2,191.15,188.79,75.72,88.09,22.96,25.72
+Z061124-Aqf_08,"cloudy interior, red staining near tips, no inclusions visible, both tips present but slightly rounded and chipped",3,221.9,222.02,74.24,69.91,24.3,25.64
+Z061024-Wvdg_01,"several dark moderate-size inclusions including at least one of zircon, interior mostly cloudy, both tips present but chipped",2,402.15,403.03,143.42,162.59,46.32,39.46
+Z061024-Wvdg_02,"cloudy and dark interior, mild surface staining, some dark inclusions, both tips intact but somewhat rounded",2,359.98,363.49,152.56,141.75,53.13,36.57
+Z061024-Wvdg_03,"mostly clear interior but spiderwebbing fractures, some small dark inclusions visible, both ends blunted/rounded, tips euhedral in view b",3,499.75,498.82,148.33,95.28,33.83,51.95
+RK24-FCT_08,"clear, few very small inclusions and one big inclusion, minor surface yellowing in one spot, both tips present and only mildly chipped/abraded",2,285.77,288.08,92.1,90.55,35.53,31.39
+Z061024-Wvdg_04,"mostly clear interior, some cloudy fractures, few very small inclusions, one end euhedral the other slightly rounded",3,462.57,461.89,120.65,120.48,50.99,41.03
+Z061024-Wvdg_05,"interior obscured, red staining pervasive, both tips close to euhedral, one face chipped/abraded, in view b tips broken/rounded",3,399.63,392.74,147.65,145.01,45.61,42.45
+Z061024-Wvdg_06,"somewhat clear interior, several small dark inclusions, mild surface staining (orange), both tips slightly rounded, one face chipped",3,472.58,476.25,133.9,130.65,40.1,47.18
+Z061024-Wvdg_07,"somewhat cloudy interior, several small dark inclusions, moderate surface staining (orange-red), both tips slightly chipped/rounded",3,408.72,412.12,118.89,117.44,48.57,35.5
+Z061024-Wvdg_08,"mostly clear interior, several small dark inclusions visible, both tips somewhat chipped",3,453.94,455.21,128.15,124.68,31.99,30.14
+Z061124-XAam_01,"interior relatively cloudy, mild orange surface staining, no inclusions visible, one end broken, the other chipped but tip present, possible that this is 2 grains intergrown…",4,421.91,418.35,119.3,107.64,45.98,70.84
+Z061124-XAam_02,"mostly clear interior, mild surface staining, one end definitely chipped if not broken, the other tip present but blunted/rounded",4,346.31,353.8,136.95,112.15,62.58,37.53
+Z061124-XAam_03,"interior clear but with cloudy spiderwebbing fractures(?), some very small round inclusions visible, only mild surface staining, one tip intact, the other very rounded",3,382.13,385.49,129.03,85.2,39.81,31.79
+RK24-FCT_09,"clear, many small inclusions, both tips present, some mild surface abrasion on faces",2,222.06,223.09,99.97,86.14,42.22,32.98
+Z061124-XAam_04,"mostly clear interior with minor cloudy fractures, one or two small round inclusions, both tips present, one only slightly rounded, the other chipped and rounded",3,334.64,330.39,131.93,82.96,42.37,50.52
+Z061124-XAam_05,"clear interior with cloudy fractures, no inclusions visible, one end broken and rounded, one end with a slightly rounded tip",3,273.57,277.66,101.86,83.58,36.93,0
+Z061124-XAam_06,"very clear interior, several small round inclusions, both ends broken!, one end stained red",4,297.11,283.55,92,110.61,39.73,46.64
+Z061124-XAam_07,"Ugly grain - super lumpy, chipped sides and potentially a small intergrown zircon on one side, grain moderately cloudy, one tip intact, one end chipped?",3,378.3,379.04,118.56,95.37,50.26,32.69
+Z061124-XAam_08,"interior mostly clear but some cloudy fractures, no inclusions visible, mild surface staining, one big chip/fracture across grain, both tips present and close to euhedral",2,455.8,455.99,125.61,110.12,47.72,41.48
+Z061024-WXam_01,"very clear interior, one or two very small inclusions, both ends very rounded and somewhat chipped",4,227.58,229.49,130.61,84.93,36.07,27.36
+Z061024-WXam_02,"clear interior, one large fracture across grain, possibly one small dark inclusions, one tip mostly intact the other rounded",3,277.72,277.27,157.45,101.5,58.25,35.96
+RK24-FCT_10,"clear, many needley inclusions, both tips present, some slight chipping near the tips",2,245.6,248.56,117.97,94.43,36.84,31.36
+Z061024-WXam_03,"mostly cloudy interior, mild yellow surface staining, both tips present but very slightly rounded",2,186.96,188.45,89.67,89.48,29.26,30.5
+Z061024-WXam_04,"very very clear interior, two very small inclusions visible, one yellow area (fracture?), both tips slightly rounded",3,239.47,240.29,117.78,81.87,40.08,48.95
+Z061024-WXam_05,"mostly cloudy interior, yellowed fractures across the grain, both ends very rounded/chipped",4,237.72,237.34,117.12,89.44,39.02,37.7
+Z061024-WXam_06,"very very clear interior, one small inclusion, one face slightly chipped, both tips moderately rounded",3,247.94,247.03,82.66,67.64,46.6,38.53
+Z061024-WXam_07,"clear interior, multiple fractures across the grain, no visible inclusions, both ends very rounded and faces lumpy",5,242.54,248.19,135.68,90.56,23.09,0
+Z061024_WXam_08,"very clear interior, several very small inclusions, both tips present but rounded, somewhat abraded sides",3,228.94,227.94,112.54,87.3,45.55,41.83
+Z061124-Abg_01,"Clear interior, minor cloudy fractures across the grain, minimal orange surface staining, several small inclusions visible, both tips present but chipped",3,292.83,295.14,125.15,75.68,41.31,31.84
+RK24-FCT_11,"clear, many small inclusions and internal fractures(?), both tips present and euhedral",1,221.44,220.99,118.39,94.62,33.66,34.39
+Z061124-Abg_02,"clear interior, some cloudy fractures, yellow surface staining mild, no visible inclusions, one end very rounded, the other end tip intact but slightly rounded",4,363.78,368.66,120.85,112.12,47.95,32.01
+Z061124-Abg_03,"very clear interior, several moderate-sized inclusions including one of possibly zircon, one end broken, one intact but moderately rounded",4,353.35,351.09,114.19,93.22,38.15,0
+Z061124-Abg_04,"mostly clear interior, somewhat cloudy and mild surface staining, both tips in tact but one very chipped",2,335.89,333.88,134.84,116.77,66.56,64.7
+Z061124-Abg_05,"partially cloudy interior, possibly small black inclusions, both ends rounded but tips intact in view b",3,297.28,297.94,150.56,110.51,46.09,39.89
