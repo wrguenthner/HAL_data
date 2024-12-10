@@ -1,106 +1,106 @@
-"L1, L2 = maximum length of Crystal (including tips, in two orientations)"
-"W1, W2 = mutually perpendicular widths of orthorhombic prism or equatorial diameters"
-"h1, h2 = tip heights of pyramidal terminations (zircons only)"
-AI = abrasion index:
-"apatite: 1 = both tips present, 1.5 = one tip missing, 2 = both tips missing, DUR = durango"
-"zircon: 1-5 (1=euhedral, 5=rounded, 3=still has pyramids)"
-
+﻿"L1, L2 = maximum length of Crystal (including tips, in two orientations)",,,,,,,,
+"W1, W2 = mutually perpendicular widths of orthorhombic prism or equatorial diameters",,,,,,,,
+"h1, h2 = tip heights of pyramidal terminations (zircons only)",,,,,,,,
+AI = abrasion index:,,,,,,,,
+"apatite: 1 = both tips present, 1.5 = one tip missing, 2 = both tips missing, DUR = durango",,,,,,,,
+"zircon: 1-5 (1=euhedral, 5=rounded, 3=still has pyramids)",,,,,,,,
+,,,,,,,,
 sample_name,morph_comments,AI,L1_(um),L2_(um),W1_(um),W2_(um),h1_(um),h2_(um)
-FCTVV_EM_z1
-z24TR01_EM_z2
-z24TR01_EM_z3
-z24TR01_EM_z4
-z24TR01_EM_z5
-z24TR01_EM_z6
-z24TR01_EM_z7
-z24TR03r_EM_z1
-FCTVV_EM_z2
-z24TR03r_EM_z2
-z24TR03r_EM_z3
-z24TR03r_EM_z4
-z24TR03r_EM_z5
-z24TR03r_EM_z6
-z24TR03r_EM_z7
-z24TR03r_EM_z8
-z24TR03a_EM_z1
-FCTVV_EM_z3
-z24TR03a_EM_z2
-z24TR03a_EM_z3
-z24TR03a_EM_z4
-z24TR05g_EM_z1
-z24TR05g_EM_z2
-z24TR05g_EM_z3
-z24TR05g_EM_z4
-FCTVV_EM_z4
-z24TR05g_EM_z5
-z24TR05g_EM_z6
-z24TR07_EM_z1
-z24TR07_EM_z2
-z24TR07_EM_z4
-z24TR07_EM_z5
-z24TR07_EM_z6
-FCTVV_EM_z5
-z24TR07_EM_z7
-z24TR07_EM_z8
-z24TR07_EM_z9
-z24UM07_DJ_z1
-z24UM07_DJ_z2
-z24UM07_DJ_z3
-z24UM07_DJ_z4
-z24UM07_DJ_z5
-FCTVV_EM_z6
-z24UM05s_DJ_z1
-z24UM05s_DJ_z2
-z24UM05s_DJ_z3
-z24UM05s_DJ_z4
-z24UM05s_DJ_z5
-z24UM05s_DJ_z6
-FCTVV_EM_z7
-z24UM07_DJ_z6
-z24UM07_DJ_z7
-z24UM07_DJ_z8
-z24UM05s_DJ_z7
-z24UM05s_DJ_z8
-z24UM04_DJ_z1
-z24UM04_DJ_z2
-FCTVV_EM_z8
-z24UM04_DJ_z3
-z24UM04_DJ_z4
-z24UM04_DJ_z5
-z24UM04_DJ_z6
-z24UM04_DJ_z7
-z24UM04_DJ_z8
-z24UM04_DJ_z9
-z24UM04_DJ_z10
-FCTVV_EM_z9
-z24UM08_DJ_z1
-z24UM08_DJ_z2
-z24UM08_DJ_z3
-z24UM08_DJ_z4
-z24UM08_DJ_z5
-z24UM08_DJ_z6
-Dur_EM_a1
-A24UM01_DJ_a1
-A24UM01_DJ_a4
-A24UM01_DJ_a5
-A24UM01_DJ_a6
-A24UM01_DJ_a7
-A24UM01_DJ_a8
-A24UM07_DJ_a1
-Dur_EM_a2
-A24UM07_DJ_a2
-A24UM07_DJ_a3
-A24UM07_DJ_a4
-A24UM07_DJ_a5
-A24UM07_DJ_a6
-A24UM07_DJ_a7
-A24UM07_DJ_a8
-Dur_EM_a3
-A24TR03a_EM_a1
-A24TR03a_EM_a2
-A24TR03a_EM_a3
-A24TR03a_EM_a4
-A24TR07_EM_a1
-A24TR07_EM_a2
-A24TR07_EM_a3
-A24TR07_EM_a4
+FCTVV_EM_z1,"Clear, few inclusions, tips abraded on one side",1,176.6,176.8,80.2,74.6,31.25,30.8
+z24TR01_EM_z2,"Yellowish, fractured (only one) inclusion +nt, Clear (Mod) pic looks dark but not as dark",2,180.1,179.2,93.7,90.9,39.45,37.15
+z24TR01_EM_z3,Dark + Big. Tips are comparatively a little clear,2,414.1,416.8,162.3,237.3,105.1,99.45
+z24TR01_EM_z4,"Clear, yellowish fractures, few inclusions",3,218.9,218.4,78.5,83,35.1,43.8
+z24TR01_EM_z5,"Clearish, yellowish, crooked shape, inclusions, fracture?",2,212.3,212.5,87.5,112.5,44.95,43.6
+z24TR01_EM_z6,"Yellowish, dark inclusions that look like fracture",2,237,237,92.1,139.6,49.4,54.9
+z24TR01_EM_z7,"Clear but rough looking, few inclusions",3,245,245.4,83.7,78.1,57.65,58.35
+z24TR03r_EM_z1,"Yellow/Purple, wierd tips, fracture, clear, few inclusions",2,196.3,196.3,103.5,80.1,48.3,47.3
+FCTVV_EM_z2,"Clear, few inclusions, tips good",1,147.6,147.6,62.4,57.7,29.35,25
+z24TR03r_EM_z2,"Clear, yellowish, fabricated, dark tips, fractured",2,295.2,295.1,115.6,84,48.85,73.35
+z24TR03r_EM_z3,"Weird shape, clear yellowish fabricated",3,214.9,213.7,71.5,97.1,47.45,33.65
+z24TR03r_EM_z4,"yellow/brownish, rough surface, looks dark in pic (could be empty, packed w/ big tweezers)",2,200.6,199.1,90.7,102.7,51,48
+z24TR03r_EM_z5,"Dark, big stubby w/ rounded tips",3,293.8,293.2,158.4,114.8,56.25,69.7
+z24TR03r_EM_z6,"Dark but clear parts too (dark stripe?), blunt tips?",2,280.3,280.5,101.1,117.1,44.7,60.05
+z24TR03r_EM_z7,"Clear, yellowish inclusion & scratches",3,224.5,225.1,76.1,79.4,36.9,58
+z24TR03r_EM_z8,"clear, looks purpleish, BIG dark on edges, looks glassy, scratches",2,363.3,362.9,145.7,140.1,66.2,75.5
+z24TR03a_EM_z1,"Wierd shape, mostly clear, inclusions and fractures",3,138.1,138.5,61.7,60.8,21,32.2
+FCTVV_EM_z3,"Clear, few inclusions, a little fractured on one side?",1,186.5,186.8,98.9,77.8,37.6,37.45
+z24TR03a_EM_z2,"Fractures, clear w/ darker edges",3,150.7,150.8,88.7,81.1,30.85,39.5
+z24TR03a_EM_z3,"Clear w/ scratches, one side perfect, one side has one blunt tip",3,150.6,151.2,60,67.4,41.75,25
+z24TR03a_EM_z4,"Clear w/ dark edges, fractures, rough surface",3,142.1,142.3,66.1,70.8,37.4,28.35
+z24TR05g_EM_z1,"Clear in middle, dark edges, inclusions, fabricated",3,138.1,138.5,61.7,60.8,21,32.2
+z24TR05g_EM_z2,"Clear, skinny, inclusions, stains",3,257.7,257.4,65.4,71.4,30.85,35.15
+z24TR05g_EM_z3,"clear, round tips, inclusions, rough surfaces",4,194.6,193.9,59,61.3,29.15,30.35
+z24TR05g_EM_z4,"Fabricated, dark edges, scratches, inclusions",3,178,177.8,65.8,71.7,23.6,28.75
+FCTVV_EM_z4,"Clear, zircon inclusions & other inclusions",1,246.5,246.6,82.5,81.3,32.35,38.5
+z24TR05g_EM_z5,"Fabricated, dark inclusions, one blunt tip",3,180.5,180.5,71.3,81.3,32.65,43.8
+z24TR05g_EM_z6,"Clear in mniddle dark on edges, scratches, inclusions, fabricated",2,178,178,60.9,60.9,23.9,41.05
+z24TR07_EM_z1,"Dark but no fully damaged, dark, few inclusions & scratches",2,204.7,204.5,100,93.9,39.35,37.05
+z24TR07_EM_z2,DARK! One tip is really curved & weird,2,261.3,261.1,121.1,125.1,39.2,43.85
+z24TR07_EM_z4,"Clear in middle, dark on tips, yellowish, fractures",2,174.7,174.1,77.7,74.7,23.7,30.35
+z24TR07_EM_z5,"Mostly clear, fractures +nt, zircon inclusion, tips are blunt & weird",3,243,243,93.4,110.6,35.4,38.9
+z24TR07_EM_z6,"Fuzzy w/ darker patches, blunt tips",3,153,153,67.5,75.6,29.35,32.15
+FCTVV_EM_z5,"Clear, zircon inclusions w/ other inclusions",1,210.1,210.4,70,74,30.85,37.85
+z24TR07_EM_z7,"Yellowish, dark on tips, rough surface, fractures",2,193.9,193.9,103.1,96.1,41.5,43
+z24TR07_EM_z8,"Clear/Yellowish w/ dark tips, fractures, inclusions, rough",2,179.6,180,74.7,74.8,28.3,31.6
+z24TR07_EM_z9,"Looks dark w/ inclusion, rounded tips, rough surfaces",3,238.2,238.2,118.3,119.3,50.5,51.3
+z24UM07_DJ_z1,"Clear/ Yellowish, fabricated, weird shape on one side",2,140.7,141.2,73,76.6,20.35,47.7
+z24UM07_DJ_z2,"Clear, stubby, fractures/scratches",2,135.9,133.3,91.5,88.7,25.4,34.25
+z24UM07_DJ_z3,"Clear w/ brown inclusion, so rough, edges may be broken (I would not pick it if we had more options!)",4,143.7,141.9,78.7,88.2,41.15,50.55
+z24UM07_DJ_z4,"Very clear, little wonky on one side, inclusions (thread like)",2,133.1,131.4,70.9,76.9,33.95,44
+z24UM07_DJ_z5,"Clear, pointy w/ inclusions",2,187.7,187.7,85.2,81.4,51.15,55.15
+FCTVV_EM_z6,"a little rough on one side but good on other, inclusions +nt",1,228.1,228.8,88.5,100.9,45.6,44.3
+z24UM05s_DJ_z1,"Clear w/ fractures, fabricated",3,166.6,166.4,78.2,63.4,36.45,34.8
+z24UM05s_DJ_z2,"Clear w/ inclusions, little wonky",3,182.3,182,59.7,68.7,49.8,29.8
+z24UM05s_DJ_z3,"Darker, fractures, fabricated",3,155.8,154.7,80.3,84.5,31.3,29.65
+z24UM05s_DJ_z4,"Clear, inclusions, stubby, fracture but not through going",4,127.6,127,80.4,86,39.1,37.4
+z24UM05s_DJ_z5,"Clear but looks dark w/ inclusions (not really dark), patchy? Fractured, tips are broken)",3,191.8,191.6,96.1,97.4,43.65,44.65
+z24UM05s_DJ_z6,"Clear, inclusion that looks like fracture, little curved (broken?)",3,145.9,145.4,61.5,72.5,33.75,34.75
+FCTVV_EM_z7,"Zircon inclusions along w/other inclusions present, bottom tips looks a little bit abraded",2,248.77,248.79,77.48,71.5,47.51,36.07
+z24UM07_DJ_z6,"Clear, small fracture w/ inclusions",2,147.3,14738,72,69.6,54.1,40.9
+z24UM07_DJ_z7,"Dark & Pointy, fabricated",2,128.5,128.5,73.8,72.8,32.15,34.25
+z24UM07_DJ_z8,"Clear, scratches, looks like fracture, dark tips!",3,132.8,131.9,71.8,92.6,29.7,46.25
+z24UM05s_DJ_z7,"Clear but the edges are broken? rough? tips are the same, darker on the edges & tip. (I think they are broken on edges but don't have more options) While packing this grain, the packet kept on jumping, wouldn't be surprised if empty.",3,131.6,130.6,77.1,79.8,34.45,30.15
+z24UM05s_DJ_z8,"Stubby, clear topography, rough surface. Fractures?",4,106.5,106.8,68.1,71.1,27.7,27.85
+z24UM04_DJ_z1,"Clear, rough surface, fractures",3,240.5,240.4,96.9,98.6,56,57
+z24UM04_DJ_z2,"Rough edges, clear, one inclusion, fracture on lower side",3,150.8,150.8,67.2,69.1,28.5,38.55
+FCTVV_EM_z8,"One tip is a little blunt, zircon and other inclusion +nt",2,191.5,192.37,60.18,71.37,27.5,35.97
+z24UM04_DJ_z3,"Looks dark as it is very rough, has a bell shape, fracture but doesn't go across the grain.",2,214.4,214.2,89.6,97.1,50.5,37.3
+z24UM04_DJ_z4,"Rough tips, they are broken into two parts. Inclusions, looks dark. Cleaned before packing.",3,164.6,164.9,101.3,92.8,38.25,40.1
+z24UM04_DJ_z5,"Weird shape, fracture, +nt, zircon inclusion? Darker on edges.",2,215.3,215.7,97.1,97.2,46.3,47.3
+z24UM04_DJ_z6,"Clear, dark on edges, rough on edges, blunt tips",3,169.2,169.3,86,81.8,38.95,36.3
+z24UM04_DJ_z7,"Clear, no inclusions, rough edges, blunt tips",3,178.7,178.4,105.2,106,38.05,47.4
+z24UM04_DJ_z8,"Clear, split tips, inclusions that look like fractures",2,171.4,171.7,73.1,85.5,35.65,38.6
+z24UM04_DJ_z9,Clear but dark spots everywhere. Inclusions + fractures.,3,164.7,165.7,74.2,76,41,45.65
+z24UM04_DJ_z10,Clear but inclusions & scratches make it look darker. Fractures! One tip looks broken on one side but is not?,3,171.9,173.9,95.3,99,38.8,40.45
+FCTVV_EM_z9,zircon and other inclusions  +nt ,1,267.21,266.62,93.88,77.05,40.38,43.04
+z24UM08_DJ_z1,"Mostly clear, inclusion that looks like a fracture, rough edges, fabricated?",3,188.5,189.8,112.4,104,26.75,43.65
+z24UM08_DJ_z2,"Dark, but clear on the middle, fractured/fabricated, inclusions",3,156.7,156.1,85,85.4,20.5,29.85
+z24UM08_DJ_z3,"Clear, weird shape, pretty rounded, rough texture",4,185.7,187.2,104.4,102.7,28,22.7
+z24UM08_DJ_z4,"Clear, weird shape, one blunt tip, roundish but still can see tip",3,210.9,214.2,113.3,97,52.45,57.3
+z24UM08_DJ_z5,"Dark, fracture +nt, yellowish stain, inclusion present",3,143.5,145.4,75.4,89,29.05,45.25
+z24UM08_DJ_z6,"DARK, weird shape, doesn't even look like a zircon, rough edges, fracture?? ",5,188.5,189.1,118.8,114.8,42.4,27.5
+Dur_EM_a1,,DUR,,,,,,
+A24UM01_DJ_a1,"Clear, fracture on one side?",1.5,182.4,183.4,67,82,,
+A24UM01_DJ_a4,No comment,1,130.8,130.1,62.8,71.8,,
+A24UM01_DJ_a5,"Clear, maybe dot inclusion? Crack lookalike is just the opposite side of the grain",1,116.3,116.6,59.3,59.6,,
+A24UM01_DJ_a6,"Weird shape, a little cracked. tiny dot inclusion.",1.5,130.6,130.7,97.5,70.4,,
+A24UM01_DJ_a7,"Weird shape, two dot inclusions that glow",1.5,143.1,142.8,98.6,77.9,,
+A24UM01_DJ_a8,"Weird shape, dot inclusion, lines that look like inclusions are due to weird shape of it.",1,133.9,134,63.2,59.1,,
+A24UM07_DJ_a1,"Clear, rough, maybe one small inclusion",1,161,162,176,175,,
+Dur_EM_a2,,DUR,,,,,,
+A24UM07_DJ_a2,"clear, euhedral, rough surface but clear, sharp edges",1,161,160,173,169,,
+A24UM07_DJ_a3,"clear, euhedral",1,122,121,114,123,,
+A24UM07_DJ_a4,"Clear, euhedral, rough on one side",1,262,263,241,214,,
+A24UM07_DJ_a5,"Mostly euhedral, clear",1,214,213,146,155,,
+A24UM07_DJ_a6,"Clear, euhedral",1,97,97,83,93,,
+A24UM07_DJ_a7,"clear, euhedral",1,226,227,166,165,,
+A24UM07_DJ_a8,"clear, euhedral",1,146,144,153,148,,
+Dur_EM_a3,,DUR,,,,,,
+A24TR03a_EM_a1,"Small inclusion that glow, tweezer marks",1,124.8,124.1,74.1,75.2,,
+A24TR03a_EM_a2,"few thread-like inclusions that do not glow, tweezer marks, rough surface?",1,150.4,150.1,64.7,64.7,,
+A24TR03a_EM_a3,A little bit cracked on the edge!,1.5,152.1,151.7,75.9,77.2,,
+A24TR03a_EM_a4,"Weird shape, broken? Inclusion?",1.5,112.3,113.2,69.7,75.7,,
+A24TR07_EM_a1,"one fluid inclusions, topography, eough edges, tweezer marks",1,197.48,197.72,121.54,126.62,,
+A24TR07_EM_a2,"tweezer marks, rough surface, one tiny inclusion (could be empty)",1.5,226.39,226.8,129.71,111.3,,
+A24TR07_EM_a3,"rough surface, one fluid inclusion, one side looks like it has a scratch but it is just topography",1.5,230.26,230.24,104.12,99.72,,
+A24TR07_EM_a4,"rough surface with little bit of topography, pointy on one side",1.5,288.96,288.82,156.9,136.59,,
