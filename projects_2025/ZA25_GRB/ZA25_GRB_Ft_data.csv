@@ -1,4 +1,4 @@
-"L1, L2 = maximum length of Crystal (including tips, in two orientations)",,,,,,,,
+ï»¿"L1, L2 = maximum length of Crystal (including tips, in two orientations)",,,,,,,,
 "W1, W2 = mutually perpendicular widths of orthorhombic prism or equatorial diameters",,,,,,,,
 "h1, h2 = tip heights of pyramidal terminations (zircons only)",,,,,,,,
 AI = abrasion index:,,,,,,,,
@@ -29,23 +29,23 @@ GRB11_z1,euhedral but baseline tips are less accurate therefore tip measurements
 GRB11_z2,euhedral with minimal imperfections,1,341,344,128,131,107,68
 GRB11_z3,eahedral with little chips off ,1,325,320,123,139,92,75
 GRB11_z4,euhedral but baseline tips are less accurate therefore tip measurements are less accurate,2,353,353,164,168,81,88
-GRB11_z5,"euhedral, measurable but not as accurateÊ",3,230,230,134,124,67,69
+GRB11_z5,"euhedral, measurable but not as accurateÂ ",3,230,230,134,124,67,69
 FCT_9,euhedral with clear surfaces and some inclusions,1,136,135,56,52,25,26
-GRB11_z7,"euhedral, measurable but not as accurateÊ",3,259,267,143,129,69,80
+GRB11_z7,"euhedral, measurable but not as accurateÂ ",3,259,267,143,129,69,80
 GRB11_z8,euhedral with one somewhat rounded tip,2,359,359,144,161,85,78
 GRB10_z1,euhedral and mostly symmetrical grain with some chips off crystal faces,2,311,309,104,117,71,80
 GRB10_z2,"euhedral but assymetrical, somewhat jagged edges",3,284,287,120,159,89,85
 GRB10_z3,euhedral with a couple less intact crystal faces,2,232,230,110,109,55,54
 GRB10_z4,euhedral with more symmetry than 3 but one face is somewhat shaved off,2,220,222,103,85,46,48
 GRB10_z5,"euhedral, mostly symmetrical",1,228,228,96,93,50,65
-FCT_10,"euhedral and almost symmetrycal, few inclusionsÊ",1,147,148,86,79,36,35
+FCT_10,"euhedral and almost symmetrycal, few inclusionsÂ ",1,147,148,86,79,36,35
 GRB10_z7,"euhedral, symmetrical with some tiny chips off",1,249,254,106,97,61,66
 GRB10_z9,euhedral but less symmetric with base tip inaccuracy,2,169,170,97,78,35,37
 GRB07_z1,euhedral with some broken nbits; almost perfect but some base tips are less accurate,2,327,330,150,148,84,79
 GRB07_z3,perfectly euhedral,1,523,527,112,124,89,75
-GRB07_z5,euhedral with jagged faces and tiny bits broken offÊ,2,306,308,124,137,53,57
+GRB07_z5,euhedral with jagged faces and tiny bits broken offÂ ,2,306,308,124,137,53,57
 GRB07_z6,euhedral with some imperfections but mostly intact,1,443,445,194,232,137,119
-GRB07_z7,less even but euhedralÊ,2,352,348,184,162,99,102
+GRB07_z7,less even but euhedralÂ ,2,352,348,184,162,99,102
 FCT_12,"euhedral clear crystal phases and piramids, inclusions",1,285,282,80,78,38,46
 GRB07_z8,close to perfect; euhedral,1,314,316,125,136,97,48
 GRB07_z10,mostly eauhedral with a few more rpunded tips,2,259,264,137,143,80,60
@@ -57,8 +57,8 @@ FCT_13,"euhedral, little jagged on one face, inclusion-ridden",1,230,231,85,76,3
 GRB05_z5,euhedral with questionable terminals,3,229,227,129,105,45,45
 GRB05_z9,euhedral with some smoother tips; it is a 3-4 in between,2,165,166,87,83,32,31
 GRB05_z10,"some terminals are unsure for the baselines, but nice euhedral grain",2,232,233,103,109,50,48
-GRB05_z11,mostly euhedral with some jaggednessÊ,2,210,208,105,118,23,69
-GRB05_z12,mostly euhedral with some jaggednessÊ,2,167,169,94,86,33,31
+GRB05_z11,mostly euhedral with some jaggednessÂ ,2,210,208,105,118,23,69
+GRB05_z12,mostly euhedral with some jaggednessÂ ,2,167,169,94,86,33,31
 GRB04_z2,euhedral with some jeggedness,2,253,254,138,147,57,70
 GRB04_z3,euhedral enough but terminals are questionable,3,195,195,111,115,47,52
 FCT_14,"euhedral, clear tips, one rounded surface, inclusion-ridden",1,283,285,122,105,43,46
@@ -66,7 +66,7 @@ GRB04_z4,euhedral but less symmetrical with a few estimated basiline termination
 GRB04_z5,euhedral but less symmetrical with a few estimated basiline terminations,2,218,217,122,89,44,60
 GRB04_z6,still euhedral but terminals are uncertain therefore tip hight measurements are less accurate,3,280,278,141,132,79,58
 GRB04_z7,euhedral but less symmetrical with a few estimated basiline terminations,2,158,153,80,79,13,17
-GRB04_z10,close to a perfect euhedral crystalÊ,1,223,223,106,94,42,42
+GRB04_z10,close to a perfect euhedral crystalÂ ,1,223,223,106,94,42,42
 GRB04_z11,a few baseline measurements are approximate but fairly euhedral,2,227,227,124,117,51,54
 GRB03_z1,euhedral with jagged surfaces and uncertain base tips,2,338,334,145,147,91,82
 GRB03_z2,good grain; eauhedral and fairly transparent,1,183,182,94,90,57,49
@@ -75,80 +75,80 @@ GRB03_z3,mostly euhedral with a little jaggedness on one face,3,163,163,91,87,25
 GRB03_z4,"eauhedral with jagged faces, obe rounded tip",2,275,273,123,110,72,71
 GRB03_z6,"most euhedral, very dark though",1,275,275,140,129,57,70
 GRB03_z8,mostly eauhedral with smmoter and less defined tips,2,242,247,131,95,55,50
-GRB03_z9,"euhedral with some jagged edges, chipped off facets, harder to measureÊ",3,410,408,215,172,134,111
+GRB03_z9,"euhedral with some jagged edges, chipped off facets, harder to measureÂ ",3,410,408,215,172,134,111
 GRB03_z10,"euhedral, clear tips and measurements, a little jagged on edges",1,301,302,86,102,43,45
 FCT_16,"euhedral, base tip measurements uncertain, inclusions and ruggedness",2,333,332,97,119,55,36
 GRB02_z2,one tip is broken off a few um on one face but mostly euhedral,2,177,181,96,95,48,49
 GRB02_z4,euhedral but some base lines might be less accurate,2,184,188,122,123,42,50
-GRB02_z5,still has pyramids but a little jagged in generalÊ,3,204,202,81,91,51,50
+GRB02_z5,still has pyramids but a little jagged in generalÂ ,3,204,202,81,91,51,50
 GRB02_z7,"one half is euhedral with some juggedness but tip was measured, and the other half is ellipsoidal",4,159,165,88,85,-,56
-GRB02_z8,euhedralÊ,2,170,166,65,67,30,30
+GRB02_z8,euhedralÂ ,2,170,166,65,67,30,30
 GRB02_z10,euhedral but not symmetrical,2,129,126,81,73,29,28
 GRB02_z11,euhedral but few baseline tips are less defined,3,162,162,82,71,25,39
-FCT_17,"euhedral with a weird ""hat"", a damaged tip that is almost extended, inclusions are abundantÊ",2,351,348,93,92,58,46
+FCT_17,"euhedral with a weird ""hat"", a damaged tip that is almost extended, inclusions are abundantÂ ",2,351,348,93,92,58,46
 GRB01_z2,mostly euhedral but one side tip is slightly broken off,2,246,246,108,146,62,58
 GRB01_z3,tips are questionable but I measured them,3,359,359,130,131,84,90
 GRB01_z4,"the basis of one tip is uncertain , so h2 is an estimate but the rest is good",2,285,285,123,131,53,60
 GRB01_z5,the most euhedral grain so far but bottom corners are somewhat less defined,2,395,399,143,166,76,81
-GRB01_z6,the 90¡ side has a probably too long h2 measurement due to misshape,2,315,315,152,160,74,79
+GRB01_z6,the 90Â° side has a probably too long h2 measurement due to misshape,2,315,315,152,160,74,79
 GRB01_z7,some uncertainties with base tipsnbut euheadral for the most part,3,260,262,129,128,73,73
 GRB01_z9,still euhedral but baseline tips are estimates,3,216,216,99,107,54,64
 GRB01_z11,euhedral but less symmetrical with some chips off,2,216,215,113,92,58,48
 GRB11_z10,euhedral with one somewhat rounded tip,2,246,246,100,79,45,43
 DUR-1,,DUR,,,,,,
-GRB01_a2,maybe one termination is present (?)Ê,0,225,235,97,88,,
-GRB01_a3,"euhedral, no terminations",0,195,289,118,157,,
-GRB01_a4,"euhedral, no terminations",0,239,190,90,123,,
-GRB01_a5,"euhedral, no terminations",0,194,207,134,130,,
-GRB01_a6,could be a 1 with one possible termination,0,201,197,101,109,,
+GRB01_a2,maybe one termination is present (?)Â ,2,225,235,97,88,,
+GRB01_a3,"euhedral, no terminations",2,195,289,118,157,,
+GRB01_a4,"euhedral, no terminations",2,239,190,90,123,,
+GRB01_a5,"euhedral, no terminations",2,194,207,134,130,,
+GRB01_a6,could be a 1 with one possible termination,2,201,197,101,109,,
 GRB02_a3,same as apatite 1,1,293,286,124,103,,
-GRB02_a4,both terminals are missing and surface is jagged,0,260,273,157,147,,
+GRB02_a4,both terminals are missing and surface is jagged,2,260,273,157,147,,
 DUR_2,,DUR,,,,,,
-GRB02_a6,remnence of one terminal but mostly absent,0,195,183,90,112,,
-GRB02_a7,no terminal but mostly symmetric,0,189,185,145,125,,
+GRB02_a6,remnence of one terminal but mostly absent,2,195,183,90,112,,
+GRB02_a7,no terminal but mostly symmetric,2,189,185,145,125,,
 GRB02_a8,one terminal!,1,193,192,145,131,,
 GRB03_a1,one terminal is intact and has jagged edges,1,196,201,109,116,,
-GRB03_a2,"no terminations, broken edges",0,223,220,102,85,,
-GRB03_a4,no terminationsÊ,0,139,141,86,89,,
-GRB03_a5,seems like there is a remnence of a termination but rather broken,0,176,153,58,60,,
-GRB03_a6,broken and jagged,0,192,194,141,136,,
+GRB03_a2,"no terminations, broken edges",2,223,220,102,85,,
+GRB03_a4,no terminationsÂ ,2,139,141,86,89,,
+GRB03_a5,seems like there is a remnence of a termination but rather broken,2,176,153,58,60,,
+GRB03_a6,broken and jagged,2,192,194,141,136,,
 DUR_3,,DUR,,,,,,
 GRB04_a3,both tips are present but incomplete,1,196,200,96,71,,
 GRB04_a4,"no terminals, mostly auhedral",1,240,241,85,88,,
-GRB04_a5,no terminals,0,265,270,78,80,,
-GRB04_a6,no terminals,0,208,219,105,88,,
-GRB04_a7,"part one terminal, eauhedral",0,275,269,143,134,,
-GRB05_a1,euhedral with some broken edges,0,224,223,102,96,,
-GRB05_a2,euhedral with some broken edges,0,192,189,109,103,,
+GRB04_a5,no terminals,2,265,270,78,80,,
+GRB04_a6,no terminals,2,208,219,105,88,,
+GRB04_a7,"part one terminal, eauhedral",2,275,269,143,134,,
+GRB05_a1,euhedral with some broken edges,2,224,223,102,96,,
+GRB05_a2,euhedral with some broken edges,2,192,189,109,103,,
 DUR_4,,DUR,,,,,,
-GRB05_a4,euhedral with some broken edges,0,150,151,96,103,,
-GRB05_a5,euhedral with jagged faces and perhaps remnnce of terminals,0,254,255,109,99,,
-GRB05_a8,"euhedral with some staining and jagged crystal faces	",0,384,391,223,147,,
-GRB07_a1,"euhedral with chips off, no terminal",0,237,230,115,95,,
-GRB07_a2,worn looking euhedral grain with some rust,0,235,253,84,78,,
-GRB07_a3,euhedral but assymetrical due to terminal breakage,0,205,209,139,123,,
-GRB07_a4,same as 3 but one terminal is almost visible,0,319,320,138,114,,
+GRB05_a4,euhedral with some broken edges,2,150,151,96,103,,
+GRB05_a5,euhedral with jagged faces and perhaps remnnce of terminals,2,254,255,109,99,,
+GRB05_a8,"euhedral with some staining and jagged crystal faces	",2,384,391,223,147,,
+GRB07_a1,"euhedral with chips off, no terminal",2,237,230,115,95,,
+GRB07_a2,worn looking euhedral grain with some rust,2,235,253,84,78,,
+GRB07_a3,euhedral but assymetrical due to terminal breakage,2,205,209,139,123,,
+GRB07_a4,same as 3 but one terminal is almost visible,2,319,320,138,114,,
 DUR_5,,DUR,,,,,,
-GRB07_a5,euhedral but assymetrical due to terminal breakage,0,256,248,127,129,,
-GRB10_a1,euhedral but broken,0,282,249,95,95,,
-GRB10_a2,euhedral and fairly intact except terminals,0,201,195,143,114,,
-GRB10_a3,part of one terminal is visible,0,292,310,162,161,,
+GRB07_a5,euhedral but assymetrical due to terminal breakage,2,256,248,127,129,,
+GRB10_a1,euhedral but broken,2,282,249,95,95,,
+GRB10_a2,euhedral and fairly intact except terminals,2,201,195,143,114,,
+GRB10_a3,part of one terminal is visible,2,292,310,162,161,,
 GRB10_a4,euhedral and perhaps one terminal is present,1,215,218,145,130,,
-GRB10_a5,"euhedral, some stain on the outside but good grain",0,352,360,154,148,,
-GRB11_a1,euhedral with staining and broken off terminal and chips,0,171,173,77,80,,
+GRB10_a5,"euhedral, some stain on the outside but good grain",2,352,360,154,148,,
+GRB11_a1,euhedral with staining and broken off terminal and chips,2,171,173,77,80,,
 DUR_6,,DUR,,,,,,
-GRB11_a2,euhedral with staining and broken off terminal and chips,0,237,237,127,121,,
-GRB11_a3,euhedral with staining and broken off terminal and chips,0,249,233,104,90,,
-GRB11_a5,"apatite 5 and 6 grains have a terminal remnence (whole or partial), euhedralÊ",1,228,230,86,94,,
+GRB11_a2,euhedral with staining and broken off terminal and chips,2,237,237,127,121,,
+GRB11_a3,euhedral with staining and broken off terminal and chips,2,249,233,104,90,,
+GRB11_a5,"apatite 5 and 6 grains have a terminal remnence (whole or partial), euhedralÂ ",1,228,230,86,94,,
 GRB11_a6,see above,1,201,211,132,127,,
-GRB12_a1,euhedral with remnence of one terminar; some chips off,0,181,181,73,73,,
-GRB12_a3,"euhedral with part of one terminal, clear grain",0,205,202,72,73,,
+GRB12_a1,euhedral with remnence of one terminar; some chips off,2,181,181,73,73,,
+GRB12_a3,"euhedral with part of one terminal, clear grain",2,205,202,72,73,,
 GRB12_a5,long euhedral grain with one terminal; clear,1,259,259,87,87,,
-GRB12_a6,bits are missing  but euhedral,0,198,206,73,68,,
+GRB12_a6,bits are missing  but euhedral,2,198,206,73,68,,
 DUR_7,,DUR,,,,,,
 GRB12_a7,long euhedral grain with one terminal intact and some chips off,1,265,266,73,70,,
-GRB13_a1,"no terminals and have little chips off the crystal faces; clear grains, no inclusionsÊ",0,220,225,103,94,,
-GRB13_a2,"no terminals and have little chips off the crystal faces; clear grains, no inclusionsÊ",0,252,254,104,94,,
-GRB13_a3,"no terminals and have little chips off the crystal faces; clear grains, no inclusionsÊ",0,286,302,128,111,,
+GRB13_a1,"no terminals and have little chips off the crystal faces; clear grains, no inclusionsÂ ",2,220,225,103,94,,
+GRB13_a2,"no terminals and have little chips off the crystal faces; clear grains, no inclusionsÂ ",2,252,254,104,94,,
+GRB13_a3,"no terminals and have little chips off the crystal faces; clear grains, no inclusionsÂ ",2,286,302,128,111,,
 GRB13_a5,"one good terminal, some chips off crystal faces, euhedral",1,293,290,111,112,,
-GRB13_a6,remnence of a terminal but not whole; some chips off,0,314,320,130,141,,
+GRB13_a6,remnence of a terminal but not whole; some chips off,2,314,320,130,141,,
