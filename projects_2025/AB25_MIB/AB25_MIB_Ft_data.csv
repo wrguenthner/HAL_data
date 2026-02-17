@@ -1,0 +1,66 @@
+"L1, L2 = maximum length of Crystal (including tips, in two orientations)",,,,,,,,
+"W1, W2 = mutually perpendicular widths of orthorhombic prism or equatorial diameters",,,,,,,,
+"h1, h2 = tip heights of pyramidal terminations (zircons only)",,,,,,,,
+AI = abrasion index:,,,,,,,,
+"apatite: 1 = both tips present, 1.5 = one tip missing, 2 = both tips missing, DUR = durango",,,,,,,,
+"zircon: 1-5 (1=euhedral, 5=rounded, 3=still has pyramids)",,,,,,,,
+,,,,,,,,
+sample_name,morph_comments,AI,L1_(um),L2_(um),W1_(um),W2_(um),h1_(um),h2_(um)
+FCT_Zr_25-1,"Prisitine, transparent, whole grain, minor inclusion",1,288,288,128,152,63,71
+Dupont6002-1,"Opaque, whole grain, rounded, polished 40-50%",4,128,140,120,100,0,0
+Dupont6002-45,"Mostly opaque, whole grain (slightly chipped side), 50% polished",3,234,229,161,194,34,26
+Dupont6002-72,"Opaque, rounded, whole grain, 40% polished",3,172,168,129,137,24,32
+Dupont6002-101,"Opaque, chipped, 50% polished",3,114,125,98,74,12,17
+Dupont6002-103,"Translucent to opaque, whole grain, 40% polished",3,179,180,132,138,33,29
+Dupont6002-109,"Translucent to opaque, whole grain and good shape, 50% polished",3,201,197,97,112,29,28
+Dupont6002-140,"Translucent, whole grain, 40% polished",3,189,189,122,108,33,29
+FCT_Zr_25-2,"Transparent/translucent, whole grain, some minor non  zircon material",2,410,416,162,172,56,61
+Dupont6002-148,"Opaque to slightly translucent, non whole grain, rounded, 50% polished",4,105,98,76,73,0,0
+Dupont6002-174,"Translucent, subrounded, 50% polished",3,145,136,137,73,17,16
+Dupont6002-209,"Translucent, whole grain, 45% polished, good shape",3,189,191,140,101,29,42
+Dupont6002-292,"Translucent to opaque, subrounded, 40% polished",3,193,187,118,100,32,33
+Dupont6002-296,"Opaque to translucent, whole grain, 50% polished",3,120,122,56,66,13,11
+McClure4863-31,"Translucent to opaque, whole grain, rounded, 40% polished",4,203,202,182,146,0,0
+McClure4863-50,"Mostly opaque, subrounded, whole grain (slightly chipped pyramid?), 50% polished",3,86,88,72,60,16,12
+FCT_Zr_25-3,"Pristine, transparent, whole grain",1,248,245,110,121,47,54
+McClure4863-60,"Opaque to translucent, subrounded, 50% polished",3,156,162,102,93,30,31
+McClure4863-101,"Translucent, whole grain, subrounded, 50% polished",3,171,164,130,137,36,21
+McClure4863-166,"Transparent, ""pristine"", whole grain, polsihed 50%",2,114,112,67,71,17,22
+McClure4863-178,"Opaque, rounded, whole grain and roughly same on all sides, polished hard to tell ~30%",4,150,148,124,117,0,0
+McClure4863-186,"Opaque, subrounded, chipped grain, 40% polished",4,199,200,155,114,0,0
+McClure4863-218,"Opaque to translucent, subrounded, whole grain, polished 40%",3,207,204,156,133,29,25
+McClure4863-222,"Opaque to translucent, rounded, whole grain, polished 50%",4,248,250,192,178,0,0
+McClure4863-293,"Translucent, chipped pyramid but mostly whole, polished 50%",3,126,124,81,72,14,21
+McClure4863-301,"Translucent, good shape, whole grain, 50% polish",3,207,206,104,83,24,31
+CPBD4700-8,"Opaque, whole grain (slightly chipped?), subrounded, 40% polished",3,146,143,85,105,21,18
+CPBD4700-111,"Translucent, whole grain, 50% polished",3,216,225,108,111,59,34
+FCT_Zr_25-4,"Transparent to translucent, whole grain",2,356,363,132,192,51,71
+CPBD4700-124,"Opaque to translucent, rounded, whole grain, polished 50%",4,157,163,121,132,0,0
+CPBD4700-130,"Transparent to translucent, mostly whole, 50% polished",3,210,216,124,106,30,24
+CPBD4700-163,"Opaque, whole grain? Polished 50%",3,242,238,117,154,32,28
+CPBD4700-189,"Transparent to translucent, whole grain, 50% polished",3,214,213,96,63,19,24
+CPBD4700-302,"Translucent, whole grain, 50% polished",3,249,248,119,86,29,31
+FCT_Zr_25-5,"Transparent to translucent, whole grain",2,405,404,179,155,75,45
+Couisineau6687-7,"Translucent to opaque, whole grain, 50% polished",3,209,213,118,102,30,35
+Couisineau6687-253,"Translucent, whole grain?, 50% polished",3,115,103,89,81,19,26
+Couisineau6687-213,"Translucent to opaque, whole grain, 40% polished",3,130,133,109,61,21,24
+Couisineau6687-13,"Transparent, whole grain, 50% polished",3,201,202,90,74,17,20
+Couisineau6687-172,"Translucent, slightly chipped, 50% polished",3,147,146,74,96,15,19
+Couisineau6687-291,"Transparent to opaque, whole grain, 50% polished",2,200,201,99,86,30,35
+Couisineau6687-114,"Translucent, whole grain, 50% polished",3,155,156,121,92,28,26
+FCT_Zr_25-6,"Transparent to translucent, whole grain",2,373,371,182,152,45,74
+AK5660-185,"Translucent, whole grain, 50% polished",3,150,147,117,76,26,21
+AK5660-199,"Transparent, pristine, whole grain, 50% polished",2,231,230,116,76,45,57
+AK5660-267,"Translucent, whole grain, 50% polished",3,199,198,115,150,26,31
+AK5660-121,"Translucent to opaque, rounded, whole grain, 50% polished",3,215,220,164,133,36,29
+AK5660-96,"Translucent to transparent, whole grain, 50% polished",3,227,235,114,95,39,33
+AK5660-40,"Transparent to translucent, whole grain, 50% polished",3,197,197,145,121,42,27
+AK5660-264,"Translucent, whole grain, polished 45%, rounded",3,228,230,194,169,60,40
+Carter5282-201,"Translucent, whole grain, subrounded 45% polished",3,146,140,103,80,24,32
+FCT_Zr_25-7,Transparent to translucent,2,407,408,196,176,59,74
+Carter5282-61,Opaque to translucent,3,166,165,94,85,30,32
+Carter5282-118,"Translucent to opaque, rounded, whole grain, 50% polished",3,151,154,105,93,27,29
+Carter5282-103,"Translucent, whole grain, rounded, 50% polished",4,113,116,109,78,0,0
+Carter5282-140,"Transparent, whole grain, subrounded, 40% polished",3,130,139,108,111,30,17
+Carter5282-149,"Translucent, whole grain?, squareish?, 40% polished",3,205,208,125,122,43,24
+Carter5282-157,"Translucent, whole grain, 50% polished",3,198,209,118,152,30,27
