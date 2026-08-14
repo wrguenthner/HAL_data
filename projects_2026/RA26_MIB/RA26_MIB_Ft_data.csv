@@ -1,0 +1,106 @@
+"L1, L2 = maximum length of Crystal (including tips, in two orientations)",,,,,,,,
+"W1, W2 = mutually perpendicular widths of orthorhombic prism or equatorial diameters",,,,,,,,
+"h1, h2 = tip heights of pyramidal terminations (zircons only)",,,,,,,,
+AI = abrasion index:,,,,,,,,
+"apatite: 1 = both tips present, 1.5 = one tip missing, 2 = both tips missing, DUR = durango",,,,,,,,
+"zircon: 1-5 (1=euhedral, 5=rounded, 3=still has pyramids)",,,,,,,,
+,,,,,,,,
+sample_name,morph_comments,AI,L1_(um),L2_(um),W1_(um),W2_(um),h1_(um),h2_(um)
+FCT_Zr_26-1,"lightbrown, transparent, whole grain, narrow",2,425,421,163,188,67,96
+WC87-Zr,"brown, opaque, one point chipped",4,109,103,75,68,11,11
+WC115-Zr,"brown, opaque, one point chipped",4,102,91,80,70,10,9
+WC157-Zr,"strawbrown, translucent",3,107,104,65,69,14,12
+WC105-Zr,"brown/black, opaque, one tip chipped",3,88,88,67,65,11,5
+WC121-Zr,"strawbrown, translucent, rounded",4,84,105,84,75,11,10
+WC125-Zr,"brown, opaque, rounded, small",4,80,80,69,53,7,6
+WC153-Zr,"strawbrown, translucent, one point chipped",3,96,119,111,65,23,11
+FCT_Zr-26-2,"lightbrown, transparent, whole grain, inclusions",2,543,543,210,204,91,88
+WC183-Zr,"brown, opaque, one point chipped?",3,103,111,95,80,14,13
+WC187-Zr,"brown, opaque, really skinny on one side",3,106,110,46,89,18,14
+WC289-Zr,"strawbrown, translucent, one point chipped",3,122,117,79,54,19,16
+DEQ4L-22-Zr,"strawbrown, translucent, rounded, kinda small....",4,103,97,88,71,10,6
+DEQ4L-185-Zr,"strawbrown, translucent, weirdly shapped, somewhat jagged",3,163,156,111,76,22,9
+DEQ4L-238-Zr,"brown, opaque, rounded",4,148,138,124,81,13,11
+DEQ4L-282-Zr,"clear, transparent",3,162,156,93,74,21,11
+DEQ4L-87-Zr,"strawbrown, translucent, smoothed",3,157,170,72,52,14,14
+FCT_Zr_26-3,"Clear/transparent, whole grain, narrow/thin, some inclusions",1,453,447,182,148,76,60
+DEQ4L-109-Zr,"brown/black, opaque, one tip chipped",3,235,229,145,121,14,11
+DEQ4L-203-Zr,"brown, opaque, rounded",4,153,153,109,92,16,10
+DEQ4L-99-Zr,"strawbrown, translucent, large grain",3,281,289,201,144,33,25
+DEQ4L-206-Zr,"strawbrown, translucent, rounded, some epoxy stuck to grain",4,134,135,109,70,10,7
+DEQ4L-27-Zr,"brown, opaque, one point chipped",3,161,163,101,96,26,16
+ISCWC423_49-Zr,"strawbrown, translucent, elongate but edges smoothed",3,279,258,101,84,19,16
+ISCWC423_31-Zr,"strawbrown, translucent, smooth",3,276,272,205,175,18,15
+FCT_Zr_26-4,"lightbrown, translucent, whole grain",2,493,486,195,156,76,47
+ISCWC423_116-Zr,"strawbrown, smooth",3,220,215,151,113,18,15
+ISCWC423_122-Zr,"strawbrown, smooth, looks like there may have been a small chip along one side",3,237,239,159,106,16,16
+ISCWC423_313-Zr,Strawbrown to brown,3,198,195,120,98,15,12
+ISCWC423_131-Zr,"strawbrown, translucent, smooth",3,178,174,121,115,16,15
+ISCWC423_28-Zr,"Strawbrown, translucent, smooth but little divit",3,205,202,137,99,16,13
+ISCWC423_113-Zr,"Strawbrown, translucent, smooth, one point chipped",4,201,196,186,139,19,7
+ISCWC423_234-Zr,"Strawbrown, translucent, smoothed",3,211,208,160,104,21,15
+FCT_Zr_26-5,"lightbrown, translucent, whole grain, some inclusions",1,356,358,164,138,65,52
+ISCWC423_71-Zr,"Strawbrown, translucent, rounded",4,181,181,140,103,23,21
+Meiser164-Zr,"brown, opaque, one point chipped, smallish",3,99,98,65,51,16,15
+Meiser136-Zr,"brown, opaque, smooth",3,108,107,64,63,10,9
+Meiser55-Zr,"lightbrown, translucenct, one point chipped",4,74,75,73,72,8,5
+Meiser41-Zr,"brown, opaque",4,106,102,88,70,10,8
+Meiser315-Zr,"brown, opaque, one point chipped",3,75,63,78,89,10,8
+Methner99-Zr,"brown, opaque, one point slightly chipped",3,148,146,106,75,32,18
+Methner109-Zr,"brown, opaque, rounded",4,129,126,107,70,17,14
+FCT_Zr_26-6,"lightbrown, translucent, whole grain, inclusions present",1,556,563,236,214,92,88
+Methner149-Zr,"brown, opaque, rounded",4,121,111,114,78,10,8
+Methner277-Zr,"brown, opaque, one point chipped off",3,142,140,102,92,33,9
+Methner210-Zr,"strawbrown, translucent, rounded",4,205,197,165,112,15,13
+Methner217-Zr,"strawbrown, translucent",3,171,174,91,79,20,12
+Methner166-Zr,"brown, opaque, on the small side",3,111,118,82,69,12,8
+Methner289-Zr,"brown, opaque, rounded",4,147,140,118,115,12,11
+FCT_Zr_26-7,"lightbrown, translucent, inclusions present",1,442,445,170,180,74,72
+MBS164-Zr,"clear, transparent",3,146,140,99,77,21,14
+MBS112-Zr,"black, opaque",3,166,161,135,100,20,17
+MBS235-Zr,"brown, opaque, jagged",3,110,111,72,57,13,11
+MBS95-Zr,"brown, opaqe",3,119,115,91,62,15,14
+MBS195-Zr,"black, opaque, rounded",4,104,103,97,65,12,10
+MBS209-Zr,"strawbrown, translucent",3,142,136,117,91,18,16
+MBS282-Zr,"strawbrown, translucent, squarish and thin",3,91,98,75,43,12,8
+FCT_Zr_26-8,"lightbrown, translucent, inclusions present",1,443,441,145,153,72,62
+MBS22-Zr,"brown, opaque, one point chipped",3,128,117,88,54,14,12
+MBS125-Zr,"brown, opaque, one point chipped",4,171,137,202,210,19,16
+MBS58-Zr,"strawbrown, opaque, small",3,112,113,63,39,22,13
+MBJ13_274-Zr,"black, opaque, both points chipped, jagged",3,110,99,89,78,13,12
+MBJ13_292-Zr,"black, opaque, one point chipped, ",3,126,131,100,77,19,13
+MBJ13_140-Zr,"strawbrown, translucent",3,133,126,104,52,18,17
+MBJ13_79-Zr,"brown/black, opaque, rounded",4,158,165,158,89,24,14
+MBJ13_83-Zr,"brown, opaque, one point slightly chipped",2,116,113,69,44,25,13
+FCT_Zr_26-9,"clear, transparent, some inclusions present",1,296,296,132,148,58,52
+MBJ13_96-Zr,"brown, opaque",3,89,85,73,43,10,7
+DEQ4L-45-Zr,"clear, transparent, one tip chipped",2,182,185,102,75,52,18
+DEQ4L-132-Zr,"brown, opaque",3,238,256,140,108,32,27
+DEQ4L-40-Zr,"brown, opaque",3,162,164,121,76,32,19
+DEQ4L-145-Zr,"strawbrown, transparent, small chip in side",3,243,250,137,130,29,21
+DEQ4L-196-Zr,"brown/black, opaque, rounded, small",4,120,115,94,82,15,14
+DEQ4L-111-Zr,"strawbrown, translucent, side slightly chipped",3,205,208,121,117,23,21
+FCT_Zr_26-10,"lightbrown, translucent, one point slightly chipped",2,376,375,144,165,60,55
+DEQ4L-210-Zr,"brown, opaque",3,140,137,118,67,16,13
+DEQ4L-93-Zr,"clear, transparent, one tip chipped",2,157,162,71,63,22,10
+DEQ4L-135-Zr,"strawbrown, translucent, one tip chipped/jagged",3,140,140,109,76,23,22
+DEQ4L-7-Zr,"clear, transparent, one tip chipped, small inclusion present",2,140,139,65,34,35,7
+ISCWC423_13-Zr,"clear/transparent, smoothed",3,219,215,123,114,19,15
+ISCWC423_60-Zr,"strawbrown, translucent",3,238,230,141,96,18,16
+ISCWC423_136-Zr,"strawbrown, slightly translucent, smoothed, smaller grain",3,137,133,95,85,15,11
+FCT_Zr_25-11,"Transparent, whole grain",2,467,460,174,150,78,55
+ISCWC423_157-Zr,"clear/transparent, smoothed",3,192,189,145,109,21,24
+ISCWC423_226-Zr,"strawbrown, translucent",3,163,165,108,101,20,17
+ISCWC423_283-Zr,"strawbrown, translucent, one point kinda chipped",3,199,175,152,105,29,24
+ISCWC423_23-Zr,"clear/transparent, smoothed",3,219,208,140,93,23,15
+ISCWC423_191-Zr,"clear/transparent, smoothed",3,278,278,127,111,21,16
+ISCWC423_145-Zr,"strawbrown, translucent",3,260,254,153,120,21,17
+ISCWC423_156-Zr,"strawbrown, translucent, one point chipped",3,243,236,193,102,19,13
+WC181-Zr,"brown, opaque, one point chipped",3,135,133,82,65,16,12
+FCT_Zr_25-12,"Pristine, clear/trasnparent, whole grain, some minor non zircon material",1,404,401,160,147,78,83
+WC196-Zr,"strawbrown, translucent",2,149,144,72,44,30,18
+WC229-Zr,"brown, translucent, one side chipped",4,140,139,90,69,14,10
+WC313-Zr,"strawbrown, translucent, one point chipped",3,76,98,64,56,12,5
+WC163-Zr,"brown, opaque, one point chipped, rounded",4,119,115,93,100,15,13
+WC92-Zr,"strawbrown, translucent, one point slightly chipped",2,152,144,62,50,20,10
+WC66-Zr,"brown, opaque, both tips kinda chipped",3,107,107,96,66,13,10
